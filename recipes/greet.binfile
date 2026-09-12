@@ -1,0 +1,10 @@
+name=greet
+version=1.0
+description=Hello test program
+url=https://raw.githubusercontent.com/LuuunodotXD/FreePKG-Repo/main/packages/greet/amd64/greet-1.0.tar.gz
+compression=gzip
+md5=d12626272cf7e3a421254b4f084f2754
+sha256=358074b780ff2dbc5f7d5457d73af7a2ce1da4bafa5436240b449edb8a1416d7
+deps=hello
+postinstall=
+conffiles=
