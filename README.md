@@ -20,7 +20,7 @@ url=https://example.com/packages/curl-8.11.0.tar.gz
 compression=gzip        # gzip, bzip2, xz — default is gzip
 md5=d41d8cd98f00b204e9800998ecf8427e
 sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-deps=zlib openssl       # space-separated, informational only
+deps=zlib openssl       # space-separated, resolved by install flag "-d"
 postinstall=ldconfig    # optional command to run after install
 conffiles=/etc/curl/curlrc  # space-separated, preserved on upgrade
 ```
@@ -33,7 +33,7 @@ conffiles=/etc/curl/curlrc  # space-separated, preserved on upgrade
 
 ## notes
 
-- `deps` are listed for reference only, dumpkg does not resolve them automatically
-- `conffiles` are preserved when upgrading — not removed when the package is removed
-- the package tarball must extract directly to `/` (e.g., `usr/bin/curl`, not `/usr/bin/curl`)
-- `compression` defaults to `gzip` if omitted
+- `deps` are resolved installing package with "--depinst" or "-d";
+- `conffiles` are preserved when upgrading — not removed when the package is removed;
+- the package tarball must extract directly to `/` (e.g., `usr/bin/curl`, not `/usr/bin/curl`);
+- `compression` defaults to `gzip` if omitted.
