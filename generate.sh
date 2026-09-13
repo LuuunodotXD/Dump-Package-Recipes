@@ -7,4 +7,4 @@ tar -czvf tarball/recipes.tar.gz -C recipes .
 md5sum tarball/recipes.tar.gz | cut -d ' ' -f 1 > tarball/recipes.tar.gz.md5
 sha256sum tarball/recipes.tar.gz | cut -d ' ' -f 1 > tarball/recipes.tar.gz.sha256
 
-echo "Tarball, MD5 and SHA256 generated successfully." 
+echo "tarball, md5 and sha256 generated successfully." 
