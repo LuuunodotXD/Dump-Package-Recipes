@@ -1,6 +1,6 @@
 # dumpkg-recipes
 
-Official recipe repository for [dumpkg](https://github.com/you/dumpkg).
+Official recipe repository for [dumpkg](https://github.com/LuuunodotXD/dumpkg).
 
 ## structure
 
