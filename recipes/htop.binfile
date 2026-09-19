@@ -1,0 +1,10 @@
+name=htop
+version=3.5.3
+description=Interactive process viewer
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/htop-3.5.3.tar.gz
+compression=gzip
+md5=104b491c9acc45ee359efd1f03308d63
+sha256=c877aba41ada012d4c67d6ecd8921e675077f453b08ff3d216beab7675a97fda
+deps=
+postinstall=
+conffiles=

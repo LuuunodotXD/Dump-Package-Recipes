@@ -1,0 +1,10 @@
+name=ufetch
+version=1.0.0
+description=Tiny system info for Unix-like operating systems.
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/ufetch-1.0.0.tar.gz
+compression=gzip
+md5=1cfafe8748ec6dd4816a33b5abd37cf1
+sha256=5cc9cb3c329ff8e35b36282c91835165e545b2dd7acd7724931a200eb6d010ea
+deps=
+postinstall=
+conffiles=
