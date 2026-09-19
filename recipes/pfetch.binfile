@@ -1,7 +1,7 @@
 name=pfetch
 version=0.6.0
 description=A pretty system information tool written in POSIX sh
-url=https://github.com/LuuunodotXD/Dump-Package-Recipes/releases/download/2026-12-09/pfetch-0.6.0.tar.gz
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/pfetch-0.6.0.tar.gz
 compression=gzip
 md5=6b9c1c8d79b61e28fe78adb758485da4
 sha256=5b3ff837fd0cab8aaa0fc319f180b53f735f4f738858e53639c5270caeada4ce

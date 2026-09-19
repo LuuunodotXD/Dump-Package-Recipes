@@ -1,7 +1,7 @@
 name=shsu
 version=1.0.0
 description=Run a command as root using su, without sudo
-url=https://github.com/LuuunodotXD/Dump-Package-Recipes/releases/download/2026-12-09/shsu-1.0.0.tar.gz
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/shsu-1.0.0.tar.gz
 compression=gzip
 md5=f1b13a663babf40f26c9959933c78419
 sha256=9d3cc638c2b2eb8d804be4bff0e14d88956af0c9f5214df2c33ef76af7bc4111
