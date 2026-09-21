@@ -1,0 +1,10 @@
+name=links
+version=2.30
+description=Free and open-source text-based web browser
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/links-2.30.tar.gz
+compression=gzip
+md5=0cea1562654ad1883e0302a1df12a71b
+sha256=5bf0b578d1b4f660dcbad53ba0e1769d8aed831a1473e676e24f605e72285fe2
+deps=
+postinstall=
+conffiles=
