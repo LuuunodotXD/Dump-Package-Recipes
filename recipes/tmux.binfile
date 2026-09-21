@@ -1,0 +1,10 @@
+name=tmux
+version=3.5
+description=Terminal multiplexer for Unix-like operating systems
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/tmux-3.5.tar.gz
+compression=gzip
+md5=7e5c4e38713aea322e06216736d4311e
+sha256=34ee743fa88ea13987b9bd88330adcf8d338e29207427b11b66bc59e83fe88f7
+deps=
+postinstall=
+conffiles=
