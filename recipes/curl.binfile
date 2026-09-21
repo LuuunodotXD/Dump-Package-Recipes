@@ -1,6 +1,6 @@
 name=curl
 version=8.12.0
-description=Hello test program
+description=A command line tool and library for transferring data with URL syntax
 url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/curl-8.12.0.tar.gz
 compression=gzip
 md5=a69595430f63eb803020154bba8d9649
