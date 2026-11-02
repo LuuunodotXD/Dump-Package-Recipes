@@ -1,0 +1,10 @@
+name=make
+version=4.4.1
+description=GNU make - build automation tool
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/make-4.4.1.tar.gz
+compression=gzip
+md5=1b6927ae8ea7894861f8828487cf73d9
+sha256=da79c2b893b4b97b6e5a791762adcd0d5097e83af5b31a0755e81d323e82f9e9
+deps=
+postinstall=
+conffiles=

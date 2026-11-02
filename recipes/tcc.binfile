@@ -1,0 +1,10 @@
+name=tcc
+version=0.9.28rc
+description=Tiny C Compiler - small and fast C99 compiler (also provides cc)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/tcc-0.9.28rc.tar.gz
+compression=gzip
+md5=8b17572cc1aa00d916725380983fe118
+sha256=8e0e5ad7464f7b9c03a14e43c3c6cae3cc41c429878e74811c05b70fc9940ec8
+deps=
+postinstall=
+conffiles=
