@@ -1,0 +1,10 @@
+name=binutils
+version=2.44
+description=GNU binutils - assembler, linker and binary tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/binutils-2.44.tar.gz
+compression=gzip
+md5=723048ebdf40ae630a47f98a7786ca37
+sha256=99e83c72cc28a9841c7bf6cecf33ef7d67a0b4c699330eff7681b9bd6a2a195e
+deps=
+postinstall=
+conffiles=

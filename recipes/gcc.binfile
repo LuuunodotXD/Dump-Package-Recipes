@@ -1,0 +1,10 @@
+name=gcc
+version=15.2.0
+description=GNU Compiler Collection - C compiler only
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gcc-15.2.0.tar.gz
+compression=gzip
+md5=c77ce2b7bdda82ac405c71b454cd8c94
+sha256=a3f687cdd7a31892f184c730807b3f1d9ad92a4e57ca4ba12cb9aeca34289f4b
+deps=binutils
+postinstall=
+conffiles=
