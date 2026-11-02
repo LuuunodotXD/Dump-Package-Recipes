@@ -5,6 +5,6 @@ url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/build-
 compression=gzip
 md5=ce519f3694b250f8215a31af3b72f07a
 sha256=e71269165fa6d077eb6c804db8f2605fa5aa8f8e86ebb6d3ef91521f317d18b8
-deps=make,binutils,gcc
+deps=make binutils gcc
 postinstall=ln -sf gcc /usr/bin/cc
 conffiles=
