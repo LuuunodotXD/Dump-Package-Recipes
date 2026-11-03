@@ -1,0 +1,10 @@
+name=expat
+version=2.7.1
+description=XML parser library (needed by dbus)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/expat-2.7.1.tar.gz
+compression=gzip
+md5=b2c88cabab61d54a295c46564e824e66
+sha256=dfaf2b9e3995912752d1d7e32c04e263bba8cc433a62fcbd5a47563a21da2c0b
+deps=
+postinstall=
+conffiles=

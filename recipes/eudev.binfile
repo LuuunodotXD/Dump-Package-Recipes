@@ -1,0 +1,10 @@
+name=eudev
+version=3.2.14
+description=udev device manager without systemd
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/eudev-3.2.14.tar.gz
+compression=gzip
+md5=e5dd2a3a5f8bffca99ff904ca52d0f9c
+sha256=a92cdd626054d1781a5563542218cf0122554cda9d6755e32e3c82be9cfd7446
+deps=
+postinstall=chmod 755 /etc/init.d/S11-udev && echo "udev: boot service S11-udev is now enabled, it starts on the next boot."
+conffiles=
