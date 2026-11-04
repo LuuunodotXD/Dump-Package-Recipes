@@ -1,0 +1,10 @@
+name=mtdev
+version=1.1.7
+description=Multitouch protocol translation library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/mtdev-1.1.7.tar.gz
+compression=gzip
+md5=6a467d2f435288fb75220f983a8dd3d5
+sha256=7e9827d686cc84035896e1ca45384df45b93af2e46d90d23e45a0fac8e8d1c2b
+deps=
+postinstall=
+conffiles=

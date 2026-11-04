@@ -1,0 +1,10 @@
+name=libxshmfence
+version=1.3.3
+description=Shared memory fences for X (DRI3)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxshmfence-1.3.3.tar.gz
+compression=gzip
+md5=4a66b06280b2f1a45ba07bfaee3e8720
+sha256=a86cb5794c31787f2bd8ad956597e23b254f385ce943229c3a1ea551a4ee83a4
+deps=
+postinstall=
+conffiles=

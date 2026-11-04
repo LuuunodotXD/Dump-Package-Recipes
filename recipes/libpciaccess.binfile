@@ -1,0 +1,10 @@
+name=libpciaccess
+version=0.18.1
+description=Generic PCI access library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libpciaccess-0.18.1.tar.gz
+compression=gzip
+md5=e8488875e8aa9a284c709ac9e14bc5d0
+sha256=a27d2c9098c71d5e198bf6ad29dfc14d7421983dbb4c0575029aa088d87506b0
+deps=
+postinstall=
+conffiles=

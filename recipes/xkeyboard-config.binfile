@@ -1,0 +1,10 @@
+name=xkeyboard-config
+version=2.44
+description=X keyboard layouts and rules
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xkeyboard-config-2.44.tar.gz
+compression=gzip
+md5=3a365bdf08bf1daaf0124fad80242896
+sha256=c64cdf45e1a925ea2f3ec84a4ede9d51a14bcba01a1e0469b4ed98a598c15471
+deps=
+postinstall=
+conffiles=

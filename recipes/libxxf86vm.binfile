@@ -1,0 +1,10 @@
+name=libxxf86vm
+version=1.1.6
+description=XFree86-VidMode extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxxf86vm-1.1.6.tar.gz
+compression=gzip
+md5=e80f23b8ad3351353abc986d30366bb4
+sha256=3c992ae8f8535320a31c401442c4fea019c19a4a118295f9f13ff768d4775619
+deps=libxext libx11
+postinstall=
+conffiles=

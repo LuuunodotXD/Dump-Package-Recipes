@@ -1,0 +1,10 @@
+name=libxfixes
+version=6.0.1
+description=X Fixes extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxfixes-6.0.1.tar.gz
+compression=gzip
+md5=64bef8162f66fd1e4f28e3016ffc72fa
+sha256=ed19a73134a150fe316a63e30f5e8af7ac2283bc0e7ec2139a58fb4b41c03077
+deps=libx11
+postinstall=
+conffiles=

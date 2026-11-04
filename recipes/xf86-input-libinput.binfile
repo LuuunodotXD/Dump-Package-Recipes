@@ -1,0 +1,10 @@
+name=xf86-input-libinput
+version=1.5.0
+description=X input driver that uses libinput
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xf86-input-libinput-1.5.0.tar.gz
+compression=gzip
+md5=5a9f73c5d8ac3cc3668895f49b2e5d53
+sha256=ff6c7925f5ae09e20c599ee3967388662a109807367bd9f93a8ef2be7bf2d022
+deps=xorg-server libinput
+postinstall=
+conffiles=

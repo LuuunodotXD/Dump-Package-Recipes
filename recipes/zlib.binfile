@@ -1,0 +1,10 @@
+name=zlib
+version=1.3.1
+description=zlib compression library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/zlib-1.3.1.tar.gz
+compression=gzip
+md5=9cb9c22db5499ae2dca4fe13409f29fb
+sha256=b6734238a03934a1fb934c3d4187cc0aef0d6378a86b05ea153dd23dee40e97c
+deps=
+postinstall=
+conffiles=

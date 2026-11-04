@@ -1,0 +1,10 @@
+name=freetype
+version=2.13.3
+description=FreeType font rendering library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/freetype-2.13.3.tar.gz
+compression=gzip
+md5=6c4b0460d2c1b445683c47e919b9fb92
+sha256=a72f68d41028fdf6988251a1f5740a957920128b2bf42523f46cb4d37ae42aa3
+deps=zlib
+postinstall=
+conffiles=

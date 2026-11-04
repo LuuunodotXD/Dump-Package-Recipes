@@ -1,0 +1,10 @@
+name=xorgproto
+version=2024.1
+description=X Window System protocol headers
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorgproto-2024.1.tar.gz
+compression=gzip
+md5=520182ba44ec8b8ef720daa21f831f5d
+sha256=750cdc5b61912e3fff883449ab42c4a0cf7e3b2f822160625266282423ddb4e6
+deps=
+postinstall=
+conffiles=

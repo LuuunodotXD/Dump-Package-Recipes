@@ -1,0 +1,10 @@
+name=libxcb
+version=1.17.0
+description=X C Binding (XCB) library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxcb-1.17.0.tar.gz
+compression=gzip
+md5=69e0339354b5d46e0dc64e02fd2c0eb1
+sha256=d8d593cf028625a893e86f0ec24577a8793eee160d13e158de6bacd4c5815893
+deps=libxau libxdmcp
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libxdamage
+version=1.1.6
+description=X Damage extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxdamage-1.1.6.tar.gz
+compression=gzip
+md5=9707db1b56f170d9cfd0298456d2d236
+sha256=160390771616d3a8b25ff0f61b24241b291046e347ee08023c10af8bbe13f789
+deps=libxfixes libx11
+postinstall=
+conffiles=

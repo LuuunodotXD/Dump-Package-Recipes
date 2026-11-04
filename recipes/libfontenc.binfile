@@ -1,0 +1,10 @@
+name=libfontenc
+version=1.1.8
+description=X font encoding library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libfontenc-1.1.8.tar.gz
+compression=gzip
+md5=a1a52aa62bf690dcddaf68f96e79573d
+sha256=fa4035ad486a08cd07985daa6f44c3e2432be7208c4187bb5843c34cb8dc6cea
+deps=zlib
+postinstall=
+conffiles=

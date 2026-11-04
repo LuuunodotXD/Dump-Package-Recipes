@@ -1,0 +1,10 @@
+name=libdrm
+version=2.4.124
+description=Direct Rendering Manager userspace library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libdrm-2.4.124.tar.gz
+compression=gzip
+md5=bbb2399c079d818b031f8dcb6326e343
+sha256=24400e4bdc65ef3440703626a8ce167f527dafd9878296365b563905422cb6e3
+deps=libpciaccess
+postinstall=
+conffiles=

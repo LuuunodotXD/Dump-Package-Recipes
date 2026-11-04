@@ -1,0 +1,10 @@
+name=libxfont2
+version=2.0.7
+description=X font library (core fonts)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxfont2-2.0.7.tar.gz
+compression=gzip
+md5=c51ff335d7cf803f5390cbc90aabba20
+sha256=7559a9e4583cb760fac7d096c0e742e9a982eafd2011f8f3900b20bbb8d17789
+deps=freetype libfontenc
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libxrandr
+version=1.5.4
+description=X Resize, Rotate and Reflect extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxrandr-1.5.4.tar.gz
+compression=gzip
+md5=e7b816b6048df2b552421182283c3e9c
+sha256=0855c70e4b785d17ee4ac0faaa8b9500637ecf23c4c0461e33ca85f7541db972
+deps=libxext libxrender libx11
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=nettle
+version=3.10.1
+description=Low-level cryptographic library (hashes only)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/nettle-3.10.1.tar.gz
+compression=gzip
+md5=395e07d86faf760566eee1cdb6bed5d5
+sha256=1bae5e65de4f7f304cde1cd5cdd4e523b90d6689f9442f4cf539ef0e00925439
+deps=
+postinstall=
+conffiles=

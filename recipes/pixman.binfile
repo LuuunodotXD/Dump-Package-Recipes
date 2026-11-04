@@ -1,0 +1,10 @@
+name=pixman
+version=0.44.2
+description=Low-level pixel manipulation library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/pixman-0.44.2.tar.gz
+compression=gzip
+md5=30c3e493f552de89be2efc8266594b51
+sha256=9174201483ab959c1a1effe7674841a0be2d18b06280915247d56f11bd0d10f9
+deps=
+postinstall=
+conffiles=

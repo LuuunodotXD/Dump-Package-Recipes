@@ -1,0 +1,10 @@
+name=xf86-video-fbdev
+version=0.5.1
+description=X video driver for plain framebuffers (fallback)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xf86-video-fbdev-0.5.1.tar.gz
+compression=gzip
+md5=cc078e335c34667631a5e90d6b1885f0
+sha256=c2e233c6b9382b73ab4b56f1d63f30a2fe1c59d9d8717b7c5c45c3a1ab1a8dfb
+deps=xorg-server
+postinstall=
+conffiles=

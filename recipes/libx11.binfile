@@ -1,0 +1,10 @@
+name=libx11
+version=1.8.12
+description=Xlib: the classic X11 client library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libx11-1.8.12.tar.gz
+compression=gzip
+md5=5ffb6890f9eb8d0b34306b6cdff7c594
+sha256=57f6ba28303affc1848405e329fe1ec58ae75258ae686c9f24afbf306d013613
+deps=xorgproto libxcb
+postinstall=
+conffiles=

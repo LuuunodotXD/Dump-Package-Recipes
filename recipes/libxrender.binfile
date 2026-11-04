@@ -1,0 +1,10 @@
+name=libxrender
+version=0.9.12
+description=X Render extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxrender-0.9.12.tar.gz
+compression=gzip
+md5=ade605332a8d70cb65422776f2761469
+sha256=2dd80acd43cbaf6d4c6b22bac5a899fb95087ab619e1d7126886e9aa3fe5ed71
+deps=libx11
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=xkbcomp
+version=1.4.7
+description=XKB keyboard description compiler
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xkbcomp-1.4.7.tar.gz
+compression=gzip
+md5=c16f44b4be40cfb53fd4ab9bf218e575
+sha256=9c5cd77980055170bac60035407a0b836699a8fdccddcb224dc2bff3e9e78ca5
+deps=libxkbfile libx11
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=font-alias
+version=1.0.5
+description=X font aliases
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/font-alias-1.0.5.tar.gz
+compression=gzip
+md5=e5a8d03b1c863673472411790e996205
+sha256=dcf9c417aa7d5df57cf5f90a99cd61bd46caf6a2b351da094b051a624245e5b2
+deps=
+postinstall=
+conffiles=

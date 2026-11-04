@@ -1,0 +1,10 @@
+name=libevdev
+version=1.13.3
+description=Wrapper library for evdev input devices
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libevdev-1.13.3.tar.gz
+compression=gzip
+md5=01bed8231d12e456afc68a74f72e9f8b
+sha256=29b7e74b5362b80d70021922880c7f25c29c542c70d5c65fb316e8a8e1b12094
+deps=
+postinstall=
+conffiles=

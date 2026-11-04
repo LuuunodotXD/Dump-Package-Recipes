@@ -1,0 +1,10 @@
+name=libxdmcp
+version=1.1.5
+description=X Display Manager Control Protocol library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxdmcp-1.1.5.tar.gz
+compression=gzip
+md5=4016bc5e4d613c430b13291ee37e357c
+sha256=d23ce6296d5d400b9d220cc9818426963fdd87820aed7b344fead1a9e743b7e5
+deps=xorgproto
+postinstall=
+conffiles=

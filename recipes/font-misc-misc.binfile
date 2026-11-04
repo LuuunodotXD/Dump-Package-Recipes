@@ -1,0 +1,10 @@
+name=font-misc-misc
+version=1.1.3
+description=Misc fixed bitmap fonts (the X default 'fixed')
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/font-misc-misc-1.1.3.tar.gz
+compression=gzip
+md5=1e52b8f317c15068b3aafb6ee8a4f41c
+sha256=4a082c9be4a36fc12cd341dbaa97c2ee3748258e9ae2a1ff84e291e219c9b2a2
+deps=font-encodings font-alias
+postinstall=
+conffiles=

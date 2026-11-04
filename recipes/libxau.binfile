@@ -1,0 +1,10 @@
+name=libxau
+version=1.0.12
+description=X11 authorization library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxau-1.0.12.tar.gz
+compression=gzip
+md5=e123be7236511d568dfc67351771a548
+sha256=c102cca87fd98d6d7f883037b47ff97b85ac81f9affa8d9b538a79379daad5e3
+deps=xorgproto
+postinstall=
+conffiles=
