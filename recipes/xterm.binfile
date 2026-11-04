@@ -1,0 +1,10 @@
+name=xterm
+version=412
+description=Terminal emulator for X
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xterm-412.tar.gz
+compression=gzip
+md5=2f0fe19b634ee4a2b7e309c58c13d14e
+sha256=2d6b15972de08bf1561841c53464d65385be3a13844cfba614102b897f0119d5
+deps=libxaw libxmu libxt libxft libxpm fontconfig font-dejavu libx11
+postinstall=
+conffiles=

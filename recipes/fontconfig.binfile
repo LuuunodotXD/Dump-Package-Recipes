@@ -1,0 +1,10 @@
+name=fontconfig
+version=2.16.0
+description=Font configuration and customization library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/fontconfig-2.16.0.tar.gz
+compression=gzip
+md5=753c19fc7c40fb89517a89b994012318
+sha256=e7e5ea0f63335650a0ee5336765748632deff76444c07cbe6dbea0d3d7e92d5a
+deps=freetype expat
+postinstall=fc-cache -f
+conffiles=/etc/fonts/fonts.conf

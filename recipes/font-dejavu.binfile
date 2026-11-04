@@ -1,0 +1,10 @@
+name=font-dejavu
+version=2.37
+description=DejaVu TrueType fonts (Sans, Mono, Serif)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/font-dejavu-2.37.tar.gz
+compression=gzip
+md5=91351e5f87cb176fa5a7fa794f819fd6
+sha256=a26ae4bfa4e2b1a23b3625acf5335fff4f5c665c636d4b8bca556a7faf206660
+deps=fontconfig
+postinstall=fc-cache -f
+conffiles=

@@ -1,0 +1,10 @@
+name=libxmu
+version=1.2.1
+description=X miscellaneous utilities library (Xmu, Xmuu)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxmu-1.2.1.tar.gz
+compression=gzip
+md5=4d9ee265a6604be2a0463ed091ee7b6f
+sha256=4381ea8e401cffbabe269748f5380e9a6d7bb7aa663d85ba48008a954176f1c0
+deps=libxt libxext libx11
+postinstall=
+conffiles=

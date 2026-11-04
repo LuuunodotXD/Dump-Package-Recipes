@@ -1,0 +1,10 @@
+name=font-spleen
+version=2.1.0
+description=Spleen bitmap font (tiny, many sizes)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/font-spleen-2.1.0.tar.gz
+compression=gzip
+md5=c87c956be7afe9e31b0291b66c5d0a26
+sha256=1939db91ba04bef069279028e5805a4b55766b0d135b35dd605684f41bb625c1
+deps=
+postinstall=
+conffiles=

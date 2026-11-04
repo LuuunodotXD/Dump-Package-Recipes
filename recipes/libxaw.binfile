@@ -1,0 +1,10 @@
+name=libxaw
+version=1.0.16
+description=X Athena Widgets library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxaw-1.0.16.tar.gz
+compression=gzip
+md5=87ad1664c47449f0e6e9b4cc665e751c
+sha256=d5318e26e4e7e71bad8cbfdfc313f6f163d357ef8dd594683b41962117154a8a
+deps=libxmu libxt libxpm libxext libx11 libsm libice
+postinstall=
+conffiles=

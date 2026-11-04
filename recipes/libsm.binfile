@@ -1,0 +1,10 @@
+name=libsm
+version=1.2.5
+description=X Session Management library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libsm-1.2.5.tar.gz
+compression=gzip
+md5=7cd89148a38709a3a0630b1e98e9f78f
+sha256=04fb2d449bf5cc6a1c95c16e24dcb35fff63317b280bc6b547b26dfacac1a3f5
+deps=libice
+postinstall=
+conffiles=

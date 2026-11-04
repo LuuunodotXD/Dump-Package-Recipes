@@ -1,0 +1,10 @@
+name=libxt
+version=1.3.1
+description=X Toolkit Intrinsics library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxt-1.3.1.tar.gz
+compression=gzip
+md5=8bdbe9978e22b39f1db69a7b40d2b4e6
+sha256=5820d7e8a8789c5a595a10634b6fdffaff7fd75a5260ce048601a9f0808ec3c0
+deps=libsm libice libx11
+postinstall=
+conffiles=

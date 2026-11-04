@@ -1,0 +1,10 @@
+name=libxft
+version=2.3.8
+description=X FreeType interface library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxft-2.3.8.tar.gz
+compression=gzip
+md5=c783c4040f04f2272a44b7604d6ca684
+sha256=3173ef82ae4ac776e0b0342a39eed9835ad95e82f7e826aea358c2f78765cd59
+deps=fontconfig freetype libxrender libx11
+postinstall=
+conffiles=

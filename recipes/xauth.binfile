@@ -1,0 +1,10 @@
+name=xauth
+version=1.1.3
+description=X authority file utility
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xauth-1.1.3.tar.gz
+compression=gzip
+md5=41662aaa1acc1659f3549083ec4d1617
+sha256=0ac16db3220df5b3fb578270d7b7c5767706965f81d8faa8dc172593aecbca25
+deps=libxau libxext libxmu libx11
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=xinit
+version=1.4.4
+description=X Window System initializer (xinit and startx)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xinit-1.4.4.tar.gz
+compression=gzip
+md5=452d91ff5830fee39a2c0f7ba673431f
+sha256=6c9f0e6b90b1bed14c41763609a5036352dd5631cb8a92d84d97472b39d33463
+deps=libx11 xauth
+postinstall=ln -sf Xorg /usr/bin/X
+conffiles=/etc/X11/xinit/xinitrc
