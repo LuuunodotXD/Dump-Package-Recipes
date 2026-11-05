@@ -1,10 +1,10 @@
 name=font-cursor-misc
 version=1.0.4
-description=X cursor font
+description=X cursor font (own folder, doesn't touch the misc fonts)
 url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/font-cursor-misc-1.0.4.tar.gz
 compression=gzip
-md5=5bcbcb89d1405d27e5f00e000de5b0dc
-sha256=e834adc5e8329d8cf620e928ea613ba9ee6cd245e48ad26dbfeec7f4df63b9a8
+md5=a998ba8bc8a9d7eb15c8c536a786e53a
+sha256=b6b49ae2d081b053fff19d5b8f402ce8e67ed4a7415d039383e2d76aa6bc43af
 deps=font-misc-misc
 postinstall=
 conffiles=
