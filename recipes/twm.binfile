@@ -5,6 +5,6 @@ url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/twm-1.
 compression=gzip
 md5=1e179f90ccd5280ec1ee8bff2182d7f4
 sha256=399c0195492227f84743a6d7cf9a12c9339b3e3b5e455549a94551ea2f1cb2b5
-deps=libxmu libxt libxext libx11 libsm libice libxrandr font-misc-misc font-cursor-misc
+deps=libxmu libxt libxext libx11 libsm libice libxrandr font-misc-misc
 postinstall=
 conffiles=

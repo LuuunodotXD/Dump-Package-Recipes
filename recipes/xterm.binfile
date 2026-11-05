@@ -5,6 +5,6 @@ url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xterm-
 compression=gzip
 md5=16cb54ba2441c9adf6ab5fb82fc2259a
 sha256=22e17fb76fa0e38887d73904be8cf118e6a8c4b97589ce42b353b0bf6ce60490
-deps=libxaw libxmu libxt libxft libxpm fontconfig font-dejavu font-misc-misc font-cursor-misc libx11
+deps=libxaw libxmu libxt libxft libxpm fontconfig font-dejavu font-misc-misc libx11
 postinstall=
 conffiles=

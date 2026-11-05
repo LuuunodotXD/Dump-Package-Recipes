@@ -5,6 +5,6 @@ url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-s
 compression=gzip
 md5=f4f08191b863e1c93e8df4b8794a89ce
 sha256=39f13f2c82f77e0d40f136a447a7d09a8bb9c7bf8bc5f31e88748d843f638737
-deps=pixman libpciaccess libdrm libxfont2 libxkbfile libxau libxdmcp libxcvt nettle eudev xkbcomp xkeyboard-config font-cursor-misc
+deps=pixman libpciaccess libdrm libxfont2 libxkbfile libxau libxdmcp libxcvt nettle eudev xkbcomp xkeyboard-config
 postinstall=chmod 4755 /usr/libexec/Xorg.wrap
 conffiles=/etc/X11/Xwrapper.config
