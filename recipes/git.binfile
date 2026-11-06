@@ -1,0 +1,10 @@
+name=git
+version=2.56.0
+description=Git version control (HTTPS built in, SSH through dbclient, no perl/python)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/git-2.56.0.tar.gz
+compression=gzip
+md5=d86e010b8da795d2b6e3a4cbb91374e3
+sha256=a81fa661a6c16c1c4abffcff901a4852ab444a2f4cc711dd4404d891b933ca89
+deps=zlib
+postinstall=[ -x /usr/bin/dbclient ] && [ ! -e /usr/bin/ssh ] && ln -s dbclient /usr/bin/ssh && echo 'git: linked ssh to dbclient (Dropbear).' || true
+conffiles=/etc/gitconfig

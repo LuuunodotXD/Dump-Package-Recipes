@@ -1,0 +1,10 @@
+name=less
+version=710
+description=Terminal pager (used by git log, git diff)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/less-710.tar.gz
+compression=gzip
+md5=6217199f312b45020a622974823fedee
+sha256=8af8e500c7ea7c8f844fe5e74a94c4c29920739673b54cc96fe57237190f54bf
+deps=
+postinstall=
+conffiles=

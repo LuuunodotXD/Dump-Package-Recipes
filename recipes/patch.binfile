@@ -1,0 +1,10 @@
+name=patch
+version=2.8
+description=GNU patch (applies diff files)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/patch-2.8.tar.gz
+compression=gzip
+md5=6e91a940440f24bd7226e04025c6b1da
+sha256=e589a85ac710cc032a1bccfe22d19e54d4571836f0e369e330531cd3ce635b9a
+deps=
+postinstall=
+conffiles=
