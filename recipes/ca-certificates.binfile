@@ -1,0 +1,10 @@
+name=ca-certificates
+version=2026.11.06
+description=Mozilla CA certificates (HTTPS trust store)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/ca-certificates-2026.11.06.tar.gz
+compression=gzip
+md5=f75eef596ef9a047a04e7f645e20965f
+sha256=98b30fc7c98ee293820b07f9cd435e821b443d500a2e476cade30b2e19d7404b
+deps=
+postinstall=
+conffiles=
