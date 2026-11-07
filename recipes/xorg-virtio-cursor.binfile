@@ -1,0 +1,10 @@
+name=xorg-virtio-cursor
+version=1.0
+description=Visible mouse cursor for QEMU virtio-gpu (software cursor, only on virtio)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-virtio-cursor-1.0.tar.gz
+compression=gzip
+md5=f2571b152682e424a4aed563c5c51164
+sha256=d31d261d591ead681195ba55cac6a4e0a5397a52f9bafff626779572ae1ff047
+deps=xorg-server
+postinstall=
+conffiles=/usr/share/X11/xorg.conf.d/10-virtio-swcursor.conf
