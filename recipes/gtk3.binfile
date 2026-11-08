@@ -1,0 +1,10 @@
+name=gtk3
+version=3.24.43
+description=GTK+ 3 graphical toolkit (X11 only)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gtk3-3.24.43.tar.gz
+compression=gzip
+md5=f1688c58fa1f1cb10fc98a375492c42e
+sha256=2cd0833fa7f9fb87ac4bd4c2d66b2d321eb817010be8e041c03c89a618980df5
+deps=glib atk at-spi2-atk at-spi2-core pango cairo gdk-pixbuf libepoxy fribidi fontconfig libx11 libxext libxi libxrender libxcursor libxrandr libxinerama libxcomposite libxdamage libxfixes shared-mime-info hicolor-icon-theme
+postinstall=/usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas 2>/dev/null; /usr/bin/gtk-query-immodules-3.0 --update-cache 2>/dev/null || true
+conffiles=

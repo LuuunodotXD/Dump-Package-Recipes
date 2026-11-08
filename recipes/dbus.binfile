@@ -1,10 +1,10 @@
 name=dbus
-version=1.16.0
-description=D-Bus message bus system
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/dbus-1.16.0.tar.gz
+version=1.14.10
+description=D-Bus message bus (session bus, no systemd)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/dbus-1.14.10.tar.gz
 compression=gzip
-md5=bc9da67c6d951e52df7b7c7774fba29a
-sha256=3c7f30799a7ca1c21be62242cdec94c4d225a02be56171cee551c5f0b6d04167
+md5=e44cd220d61e2b68389cb4c2447b4a29
+sha256=db799ef591f9ce844b201b96ab636f1e52729320bcf771b56768f050a1f1c3a7
 deps=expat
-postinstall=sh /usr/share/dbus-1/postinstall.sh && chmod 755 /etc/init.d/S16-dbus && echo "dbus: boot service S16-dbus is now enabled, it starts on the next boot."
+postinstall=
 conffiles=

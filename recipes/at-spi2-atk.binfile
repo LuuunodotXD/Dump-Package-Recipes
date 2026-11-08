@@ -1,0 +1,10 @@
+name=at-spi2-atk
+version=2.38.0
+description=ATK bridge to AT-SPI
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/at-spi2-atk-2.38.0.tar.gz
+compression=gzip
+md5=8b61b9892d760228418c1cccbb39c6c7
+sha256=e1dbe77556481a585eeac6dabff307e0f33cd3b5b3e8839486e3b826410c9628
+deps=at-spi2-core atk glib dbus
+postinstall=
+conffiles=

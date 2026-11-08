@@ -1,0 +1,10 @@
+name=shared-mime-info
+version=2.4
+description=Freedesktop shared MIME database
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/shared-mime-info-2.4.tar.gz
+compression=gzip
+md5=dc546e2f73080a1a4df7458b34c80045
+sha256=2268cd948be7a726c91a252123f489a6f93a87a922fef89b1b9c3858d6474dee
+deps=glib libxml2
+postinstall=/usr/bin/update-mime-database /usr/share/mime 2>/dev/null || true
+conffiles=

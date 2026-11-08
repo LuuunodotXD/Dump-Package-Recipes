@@ -1,0 +1,10 @@
+name=at-spi2-core
+version=2.52.0
+description=Assistive Technology Service Provider Interface (core)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/at-spi2-core-2.52.0.tar.gz
+compression=gzip
+md5=5482c1a4eb9f4bd721d2d82a3d982397
+sha256=744d62ff78bb9bb73414de2b0ab9687a32c56a54004afb280a4e3013fca0de9f
+deps=dbus glib libx11 libxi libxtst
+postinstall=
+conffiles=

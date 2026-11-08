@@ -1,0 +1,10 @@
+name=libxml2
+version=2.12.9
+description=XML parser library and tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxml2-2.12.9.tar.gz
+compression=gzip
+md5=35bf035f3edb972be49e48c40353a38f
+sha256=55bd888949f41a112070dcba09383ed61ebfec7a1786fb7e2f08504f71279ca6
+deps=zlib
+postinstall=
+conffiles=

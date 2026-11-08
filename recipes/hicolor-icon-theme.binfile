@@ -1,0 +1,10 @@
+name=hicolor-icon-theme
+version=0.18
+description=Fallback icon theme (hicolor)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/hicolor-icon-theme-0.18.tar.gz
+compression=gzip
+md5=2374775c3ab2b0a3e4f48ed63c1ea114
+sha256=8e36cb40b12609f47b9d37f4ecea9e5df9cfd73f0c97255d987ca8598f8be85e
+deps=
+postinstall=
+conffiles=
