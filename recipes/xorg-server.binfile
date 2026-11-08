@@ -1,10 +1,10 @@
 name=xorg-server
 version=21.1.16
-description=X.Org X server (rootless via setuid wrapper, udev, no GL)
+description=X.Org X server (rootless via setuid wrapper, udev, GLX + glamor + DRI2/3)
 url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-server-21.1.16.tar.gz
 compression=gzip
-md5=f4f08191b863e1c93e8df4b8794a89ce
-sha256=39f13f2c82f77e0d40f136a447a7d09a8bb9c7bf8bc5f31e88748d843f638737
-deps=pixman libpciaccess libdrm libxfont2 libxkbfile libxau libxdmcp libxcvt nettle eudev xkbcomp xkeyboard-config
+md5=c005c3b578d1d1efff927d9201417638
+sha256=0beb85fc0d37d318ded0891aac85908c8e8996de104cb9b27adbb5c368f31169
+deps=pixman libpciaccess libdrm libxfont2 libxkbfile libxau libxdmcp libxcvt nettle eudev xkbcomp xkeyboard-config font-misc-misc mesa libepoxy libxshmfence
 postinstall=chmod 4755 /usr/libexec/Xorg.wrap
 conffiles=/etc/X11/Xwrapper.config
