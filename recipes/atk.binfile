@@ -1,0 +1,10 @@
+name=atk
+version=2.38.0
+description=Accessibility toolkit interfaces (atk)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/atk-2.38.0.tar.gz
+compression=gzip
+md5=2db4cba8a675d025bfc09c72d9cea085
+sha256=828c8265ac54321f04663ced14f5ab4603b491a8e250f2a2ca1ef203e0d3011e
+deps=glib
+postinstall=
+conffiles=

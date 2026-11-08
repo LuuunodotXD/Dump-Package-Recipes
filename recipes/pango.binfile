@@ -1,0 +1,10 @@
+name=pango
+version=1.50.14
+description=Text layout and rendering library (pango)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/pango-1.50.14.tar.gz
+compression=gzip
+md5=66806e927b47f3b089b5c4f5e146e9ee
+sha256=64a48cbaf271ed4fd6bea83da48dfe6077e519ac83cce1776427024aed749bed
+deps=glib fribidi harfbuzz cairo fontconfig freetype libxft libxrender libx11
+postinstall=
+conffiles=

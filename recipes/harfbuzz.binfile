@@ -1,0 +1,10 @@
+name=harfbuzz
+version=8.5.0
+description=OpenType text shaping engine
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/harfbuzz-8.5.0.tar.gz
+compression=gzip
+md5=484fa460387691a723713eb26002d717
+sha256=4d2e535aaca5f46f9d42b4fa546dac94205e6702be097d02de4e5e1550f855b0
+deps=freetype glib
+postinstall=
+conffiles=

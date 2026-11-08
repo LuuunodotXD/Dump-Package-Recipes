@@ -1,0 +1,10 @@
+name=gdk-pixbuf
+version=2.42.12
+description=Image loading library for GTK (gdk-pixbuf)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gdk-pixbuf-2.42.12.tar.gz
+compression=gzip
+md5=510f24cb21a731f62c2a09454b112908
+sha256=614cc94952396a3ae0775384ab850fcd2f5d825b2a3fb57932ff787556e8a89b
+deps=glib libpng libjpeg-turbo libtiff zlib
+postinstall=
+conffiles=

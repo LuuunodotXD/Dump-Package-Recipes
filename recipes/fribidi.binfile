@@ -1,0 +1,10 @@
+name=fribidi
+version=1.0.15
+description=Unicode bidirectional algorithm library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/fribidi-1.0.15.tar.gz
+compression=gzip
+md5=979248b40df17500b630f41e44292263
+sha256=2a88a0fd10c3a3fc2e1dcd58e2fc8cd236d8dd7d78405968fe4e7b7923993488
+deps=
+postinstall=
+conffiles=
