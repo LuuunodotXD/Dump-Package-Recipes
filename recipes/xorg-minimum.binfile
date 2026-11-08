@@ -1,0 +1,10 @@
+name=xorg-minimum
+version=1.0
+description=Minimal X11: server, input and video drivers, xinit, xterm and twm
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-minimum-1.0.tar.gz
+compression=gzip
+md5=0edef7553e4ae3a3b45b492e99d5e92d
+sha256=453881be402ea44ee06f54702ca6817b549c6005f7da5344738d8273bfd0ecb4
+deps=xorg-server xinit xauth xf86-input-libinput xf86-video-fbdev xterm twm xsetroot font-misc-misc font-cursor-misc font-alias font-encodings
+postinstall=echo "xorg-minimum is ready. Log in as a regular user and type: startx (you get xterm and twm)."
+conffiles=

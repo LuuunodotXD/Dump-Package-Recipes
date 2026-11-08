@@ -1,0 +1,10 @@
+name=xorg
+version=1.0
+description=Standard X11: xorg-minimum plus the usual X utilities, fonts and xclock
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-1.0.tar.gz
+compression=gzip
+md5=a06a67a9d8476355eb2b56398f07c037
+sha256=6b5c159619082825a706cb4a20fb1336012c1e687b4c61c76ce834822d64a876
+deps=xorg-minimum setxkbmap xrandr xset xrdb xmodmap xinput xprop xwininfo xev xkill xhost xdpyinfo xlsclients xlsfonts xrefresh xclock xbitmaps mesa-demos fontconfig font-dejavu font-terminus font-spleen
+postinstall=echo "xorg is ready. Handy first steps: glxinfo | grep renderer, xrandr, setxkbmap br."
+conffiles=
