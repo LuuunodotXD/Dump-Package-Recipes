@@ -1,0 +1,10 @@
+name=librsvg
+version=2.40.21
+description=SVG rendering library and gdk-pixbuf loader (C version, no Rust)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/librsvg-2.40.21.tar.gz
+compression=gzip
+md5=8ec8a8bcbcd5c4117f8d1d82bb504933
+sha256=c50a6c41afb519924d347a99cdac08d79e869cf13b0a5e45f4c1efa169caa8ea
+deps=glib gdk-pixbuf cairo pango libxml2 libcroco
+postinstall=/usr/bin/gdk-pixbuf-query-loaders --update-cache 2>/dev/null || true
+conffiles=

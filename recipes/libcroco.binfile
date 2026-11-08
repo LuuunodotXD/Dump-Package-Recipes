@@ -1,0 +1,10 @@
+name=libcroco
+version=0.6.13
+description=CSS2 parsing library (used by librsvg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libcroco-0.6.13.tar.gz
+compression=gzip
+md5=7c7b980083ee8c73df7ba47e13c57c77
+sha256=2783f2a2486dc6cc7ac1cd49accd6b486e77d8bb6439900b6ba41ac5cf17e9ee
+deps=glib libxml2
+postinstall=
+conffiles=
