@@ -1,0 +1,10 @@
+name=xlsclients
+version=1.1.5
+description=List the client applications on a display
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xlsclients-1.1.5.tar.gz
+compression=gzip
+md5=477b43949fb9588993908eab372194ed
+sha256=abd22986c319dfbea3cedac12a45808304174e069b3ee8ede7bf8e59cb5b457f
+deps=libx11 libxcb
+postinstall=
+conffiles=

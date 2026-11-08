@@ -1,0 +1,10 @@
+name=xdpyinfo
+version=1.3.4
+description=Show information about an X display
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xdpyinfo-1.3.4.tar.gz
+compression=gzip
+md5=10b4a7e3db8290be98e4de74afe9d04a
+sha256=b4cec3d44e6e6433630594c9f38ff7a9bcd472f1ffcb611a995f7b846fbade46
+deps=libx11 libxext libxtst libxi libxrender libxxf86vm libxinerama libxcb
+postinstall=
+conffiles=

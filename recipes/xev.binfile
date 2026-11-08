@@ -1,0 +1,10 @@
+name=xev
+version=1.2.6
+description=Print contents of X events
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xev-1.2.6.tar.gz
+compression=gzip
+md5=fe41800671095a720fc854b62f106c2d
+sha256=095e20b2b0ec07775686b2829a0fff02aafeb210788ae68de2b0e1aa818a9ef7
+deps=libx11 libxrandr libxrender
+postinstall=
+conffiles=

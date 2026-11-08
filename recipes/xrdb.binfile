@@ -1,0 +1,10 @@
+name=xrdb
+version=1.2.2
+description=X server resource database utility
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xrdb-1.2.2.tar.gz
+compression=gzip
+md5=5bbd4a6c278a9614f9b36a992f9666ae
+sha256=1080e5c9655bd02580817c0cfe46eceb38bcae7e510f27413e3bb0413f6eff76
+deps=libxmu libx11
+postinstall=
+conffiles=

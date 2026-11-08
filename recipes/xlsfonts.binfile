@@ -1,0 +1,10 @@
+name=xlsfonts
+version=1.0.8
+description=List the fonts the X server knows
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xlsfonts-1.0.8.tar.gz
+compression=gzip
+md5=cf8bcce20b13fbcea6e1bc10bd811250
+sha256=8f2bf45c41fe5051acd7c256a0dbea65e5b2b26d2c5f89b5b05c78f07f3b5c31
+deps=libx11
+postinstall=
+conffiles=

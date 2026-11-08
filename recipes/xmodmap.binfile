@@ -1,0 +1,10 @@
+name=xmodmap
+version=1.0.11
+description=Modify keymaps and pointer buttons
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xmodmap-1.0.11.tar.gz
+compression=gzip
+md5=1d411e7a965875fd1719480f77d679f2
+sha256=9c761fc90dda2d02c2840f3d90bcc0088fd14c7d1bbc3fc5389d2a8b163b127f
+deps=libx11
+postinstall=
+conffiles=

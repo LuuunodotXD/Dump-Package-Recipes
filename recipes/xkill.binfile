@@ -1,0 +1,10 @@
+name=xkill
+version=1.0.6
+description=Kill a client by its X resource
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xkill-1.0.6.tar.gz
+compression=gzip
+md5=5dd1253749c79905c4323ba1e8da6b78
+sha256=dc68fde6d3375d3ca790dbba6f71570c768aa9dd87dc2753fbefaf3904768a58
+deps=libxmu libxt libx11
+postinstall=
+conffiles=

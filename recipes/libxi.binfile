@@ -1,0 +1,10 @@
+name=libxi
+version=1.8.2
+description=X Input extension library (XI2)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxi-1.8.2.tar.gz
+compression=gzip
+md5=db4baa9aed27b65db4fa8d8af78f32cb
+sha256=3b2fc51c9dcc88544528f8d751a68e0c80054cf170868c2ed57a7c755ee86502
+deps=libxext libxfixes libx11
+postinstall=
+conffiles=

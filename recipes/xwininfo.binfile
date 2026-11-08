@@ -1,0 +1,10 @@
+name=xwininfo
+version=1.1.6
+description=Show information about X windows
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xwininfo-1.1.6.tar.gz
+compression=gzip
+md5=2ab4ddf6da041d31ab25ed093b2d3e9f
+sha256=2bbae850a8274b9eea099c825c2d9eb9b91a95ca7f6a9c66801b5fcb90ef49c6
+deps=libx11 libxcb
+postinstall=
+conffiles=

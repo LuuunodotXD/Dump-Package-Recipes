@@ -1,0 +1,10 @@
+name=xhost
+version=1.0.10
+description=Server access control for X
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xhost-1.0.10.tar.gz
+compression=gzip
+md5=ca83bafa6a3e36eae644bbb88033e185
+sha256=d4cf6fae9b00b5b239768f52739d72a25422d6df8131e235c0ad293d0ee79c1b
+deps=libxmu libxau libx11
+postinstall=
+conffiles=

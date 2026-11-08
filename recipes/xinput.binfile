@@ -1,0 +1,10 @@
+name=xinput
+version=1.6.4
+description=Configure input devices (mouse, touchpad, keyboard)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xinput-1.6.4.tar.gz
+compression=gzip
+md5=8c2e74e1a0287e690a98fa2e92f5dddb
+sha256=1d1feb5800269c9924a43d553b88b2fc9c18bcfc19668ebdb562e16f148dbe3a
+deps=libxi libxinerama libxrandr libx11
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=xset
+version=1.2.5
+description=User preferences for X (key repeat, screensaver, DPMS)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xset-1.2.5.tar.gz
+compression=gzip
+md5=14cc99ffdb6f0286b1d813597f627778
+sha256=c7f28a31c66e0c0c4363181f52becf830f988269d471cfa4b2f6e582de95de81
+deps=libxmu libxext libx11
+postinstall=
+conffiles=

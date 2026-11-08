@@ -1,0 +1,10 @@
+name=libxtst
+version=1.2.5
+description=X Record and XTEST extensions library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxtst-1.2.5.tar.gz
+compression=gzip
+md5=965b47fa9b7216374528aa59a8ff3052
+sha256=41f7f2bb26a00c5bee8fff840903311829872815b0df1147dfe81a7e0f64df16
+deps=libxi libxext libx11
+postinstall=
+conffiles=

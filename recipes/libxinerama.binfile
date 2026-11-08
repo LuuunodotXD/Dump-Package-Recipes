@@ -1,0 +1,10 @@
+name=libxinerama
+version=1.1.5
+description=X Xinerama extension library (multi-monitor)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxinerama-1.1.5.tar.gz
+compression=gzip
+md5=4a1bfc10a2df5066c2595391ca595be9
+sha256=5f3218fa4f6456735d4c3b5eda2e99a6bfd79e236c3bc0925c11937c45c71aed
+deps=libxext libx11
+postinstall=
+conffiles=

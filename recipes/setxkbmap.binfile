@@ -1,0 +1,10 @@
+name=setxkbmap
+version=1.3.4
+description=Set the keyboard layout (XKB)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/setxkbmap-1.3.4.tar.gz
+compression=gzip
+md5=381bfbac803c8190958bb525e1dc3189
+sha256=b9cbe1416cca3900043b605b237a1ab501e3927481b6e9598762dbd5e53bbf48
+deps=libxkbfile libxrandr libx11 xkbcomp xkeyboard-config
+postinstall=
+conffiles=

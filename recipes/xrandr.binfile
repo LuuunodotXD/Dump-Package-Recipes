@@ -1,0 +1,10 @@
+name=xrandr
+version=1.5.3
+description=Change screen size, orientation and monitors
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xrandr-1.5.3.tar.gz
+compression=gzip
+md5=55fc69c3100aebc280a776c46d23a988
+sha256=34516328d7d0506a9d417a5f032dd641db1205e762266a22a07cea86b7af6b24
+deps=libxrandr libxrender libx11
+postinstall=
+conffiles=
