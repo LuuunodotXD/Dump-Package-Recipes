@@ -1,0 +1,10 @@
+name=xz
+version=5.6.4
+description=xz compression program and liblzma
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xz-5.6.4.tar.gz
+compression=gzip
+md5=e8fe75d69e2e6e56438fa1bec538cd6b
+sha256=ee307b1962b8f17a8d831403b61348e0711ad2dd583289e77f2ae027b96abddd
+deps=
+postinstall=
+conffiles=

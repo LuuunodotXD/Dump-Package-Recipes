@@ -1,0 +1,10 @@
+name=bzip2
+version=1.0.8
+description=bzip2 compression program and library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/bzip2-1.0.8.tar.gz
+compression=gzip
+md5=2063b44424891eb98fcb3ba14376425c
+sha256=a45ec3ee886e44d3e1f6de267e4f5aaeb78788fcc77313b0b0db9cf445b6b4e6
+deps=
+postinstall=
+conffiles=

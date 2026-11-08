@@ -1,0 +1,10 @@
+name=zstd
+version=1.5.6
+description=Zstandard compression program and library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/zstd-1.5.6.tar.gz
+compression=gzip
+md5=1540537d38b2f3b4638bdaadca183397
+sha256=9c5f1df7e026507033779c8acf8e2a0155052f843990a9c28b74226ebee30fe2
+deps=zlib
+postinstall=
+conffiles=

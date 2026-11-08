@@ -1,0 +1,10 @@
+name=libjpeg-turbo
+version=3.0.4
+description=JPEG library (libjpeg and libturbojpeg) with SIMD
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libjpeg-turbo-3.0.4.tar.gz
+compression=gzip
+md5=4d475f2746f4121082cb22bdfa1445be
+sha256=01fd8cbf9477f521fc38c38ac6cdd52ba3eca0bbbacbf0d0ff178a19d9f11b23
+deps=
+postinstall=
+conffiles=

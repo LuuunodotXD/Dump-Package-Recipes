@@ -1,0 +1,10 @@
+name=libwebp
+version=1.4.0
+description=WebP image library and tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libwebp-1.4.0.tar.gz
+compression=gzip
+md5=c649747677aacc9b6b02716ed652fcb1
+sha256=802006b6fa17d03da925cd900ab2b5052ac0326e10ee270a29bea12b269f92c9
+deps=libpng libjpeg-turbo
+postinstall=
+conffiles=

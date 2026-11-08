@@ -1,0 +1,10 @@
+name=libpng
+version=1.6.59
+description=PNG reference library (with APNG support)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libpng-1.6.59.tar.gz
+compression=gzip
+md5=d0b265e8fb7ebfafa4f30fd3e3069753
+sha256=6ee48fb701625e6159714f163cb250c45f350b7898fc6684229b39b6f54772ec
+deps=zlib
+postinstall=
+conffiles=

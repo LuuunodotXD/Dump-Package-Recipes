@@ -1,0 +1,10 @@
+name=libtiff
+version=4.6.0
+description=TIFF library and tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libtiff-4.6.0.tar.gz
+compression=gzip
+md5=9d32deb6d398b86288587b9de18f0be2
+sha256=8935a58b1316dfdf5d355f5d5aec03d86120312bfafe5686685da16a863a07e1
+deps=zlib libjpeg-turbo
+postinstall=
+conffiles=
