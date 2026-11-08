@@ -1,0 +1,10 @@
+name=mesa-demos
+version=9.0.0
+description=glxinfo, glxgears and eglinfo (to test 3D)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/mesa-demos-9.0.0.tar.gz
+compression=gzip
+md5=408bf558e034fd2f03f1cf6996e8cd03
+sha256=a5019d030269f585e6be3255939f63b82a6c0c72d4fda412c8952467586f1bdc
+deps=mesa glu libx11 libxext
+postinstall=
+conffiles=

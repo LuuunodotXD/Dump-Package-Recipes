@@ -1,0 +1,10 @@
+name=mesa
+version=24.0.9
+description=Mesa 3D: OpenGL, EGL, GBM, GLES2 (crocus, iris, virgl, softpipe; no LLVM)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/mesa-24.0.9.tar.gz
+compression=gzip
+md5=191ac20286a815f3b08f52a81a0232a2
+sha256=51846bba5dfccfd15297c20a364af747fa7f20d92c8816c0a3f29018bb94a212
+deps=libdrm libx11 libxcb libxext libxfixes libxshmfence libxxf86vm libxdamage libxrandr expat zlib
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=glu
+version=9.0.3
+description=OpenGL Utility library (GLU)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/glu-9.0.3.tar.gz
+compression=gzip
+md5=9f2bf8e641ce3ce9224e1dafbb1b181c
+sha256=c623e6c0a40f6da52fa56ab885c8101a8d13b3780fb14724ca5670902e4653f8
+deps=mesa
+postinstall=
+conffiles=

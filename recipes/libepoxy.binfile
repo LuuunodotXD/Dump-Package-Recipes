@@ -1,0 +1,10 @@
+name=libepoxy
+version=1.5.10
+description=GL function pointer management library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libepoxy-1.5.10.tar.gz
+compression=gzip
+md5=ded9fb2dabd9923ad13c24d9f3055108
+sha256=af374188703c93ee8ff614d744e2a3dee94441bec42597a5175379b926d79cb3
+deps=mesa libx11
+postinstall=
+conffiles=
