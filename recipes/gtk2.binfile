@@ -1,0 +1,10 @@
+name=gtk2
+version=2.24.33
+description=GTK+ 2 graphical toolkit
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gtk2-2.24.33.tar.gz
+compression=gzip
+md5=c0fd499c77ea357185334d093c40979b
+sha256=b9b4386b1bdb21ea3f050579764ca90f2ed0e065884732fa8e251f3f37299b66
+deps=glib atk pango cairo gdk-pixbuf libx11 libxext libxrender libxi libxcursor libxrandr libxinerama libxcomposite libxdamage libxfixes fontconfig
+postinstall=/usr/bin/gtk-query-immodules-2.0 --update-cache 2>/dev/null || true
+conffiles=
