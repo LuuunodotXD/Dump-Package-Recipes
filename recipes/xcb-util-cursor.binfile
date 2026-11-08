@@ -1,0 +1,10 @@
+name=xcb-util-cursor
+version=0.1.5
+description=XCB cursor library (port of libXcursor)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-cursor-0.1.5.tar.gz
+compression=gzip
+md5=5846853e85f313f7c35c5e9c67ab184d
+sha256=780c11141417b1e5056de2ded1e402eeca2eb4bd24e3a9fdcb653bcb369c6dd4
+deps=libxcb xcb-util-image xcb-util-renderutil
+postinstall=
+conffiles=

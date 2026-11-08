@@ -1,0 +1,10 @@
+name=libxpresent
+version=1.0.1
+description=X Present extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxpresent-1.0.1.tar.gz
+compression=gzip
+md5=bf06b9e6ed1e499d8452d05d86d51884
+sha256=f7c072f2d2ad6dc5956d6b45794637b33c98c1e6139e088ba386298b8cce9d06
+deps=libxext libxfixes libxrandr libx11
+postinstall=
+conffiles=

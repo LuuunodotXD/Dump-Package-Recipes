@@ -1,0 +1,10 @@
+name=xcb-util-keysyms
+version=0.4.1
+description=XCB standard key symbols library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-keysyms-0.4.1.tar.gz
+compression=gzip
+md5=d0b720a1bb98ca0ce8e1b8979ded92b5
+sha256=ff9f16ced19d97a8644fc39d12b49b0b98c3caef87a119704623ba6f4e966038
+deps=libxcb
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libxv
+version=1.0.12
+description=X Video extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxv-1.0.12.tar.gz
+compression=gzip
+md5=b09e49d87f09c0dbe9c4ca60754cf668
+sha256=355ba6dbe75dcaacdc3da8621442d5070b616c4c32a5eedc1ba632bf30a40b62
+deps=libxext libx11
+postinstall=
+conffiles=

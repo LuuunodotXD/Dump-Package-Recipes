@@ -1,0 +1,10 @@
+name=xcb-util-renderutil
+version=0.3.10
+description=XCB convenience functions for the Render extension
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-renderutil-0.3.10.tar.gz
+compression=gzip
+md5=e85d841f844030e44f724ce23582c357
+sha256=174445add9a8d77fffc9e98ad97e7223040c42fc24f2556d12bdcd1ba4c6f6db
+deps=libxcb
+postinstall=
+conffiles=

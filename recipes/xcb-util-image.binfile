@@ -1,0 +1,10 @@
+name=xcb-util-image
+version=0.4.1
+description=XCB port of Xlib's XImage and XShmImage
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-image-0.4.1.tar.gz
+compression=gzip
+md5=ec758f4f4f08389b223e46c4e945c22d
+sha256=5d76fa84458a4b965676c07f649f986d1e569c188a75b9c911c6546ccbafbac6
+deps=libxcb xcb-util
+postinstall=
+conffiles=

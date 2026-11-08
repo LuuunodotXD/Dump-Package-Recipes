@@ -1,0 +1,10 @@
+name=xcb-util-wm
+version=0.4.2
+description=XCB ICCCM and EWMH helpers for window managers
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-wm-0.4.2.tar.gz
+compression=gzip
+md5=fb6c6769532331faa94d4e0925aed08f
+sha256=1d39a5e165706c17ced9d494d7fdb05f5701cdcb2087636e94e1763f2b526b99
+deps=libxcb
+postinstall=
+conffiles=

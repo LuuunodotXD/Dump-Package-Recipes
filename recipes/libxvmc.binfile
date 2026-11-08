@@ -1,0 +1,10 @@
+name=libxvmc
+version=1.0.14
+description=X Video Motion Compensation library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxvmc-1.0.14.tar.gz
+compression=gzip
+md5=0cbde3d544003c090c296318f3b30707
+sha256=1377e2bc0befa08e48176310dd33c48fb81c1344f75da3c6898290911676f916
+deps=libxv libxext libx11
+postinstall=
+conffiles=

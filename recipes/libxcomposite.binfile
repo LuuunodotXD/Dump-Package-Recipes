@@ -1,0 +1,10 @@
+name=libxcomposite
+version=0.4.6
+description=X Composite extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxcomposite-0.4.6.tar.gz
+compression=gzip
+md5=a21956d3ad4103e3bd5b73655e0d4fdd
+sha256=9127cae80dda66dc6663059ea73563136bd1cbae1c10017c413270c1df34b69a
+deps=libxfixes libx11
+postinstall=
+conffiles=

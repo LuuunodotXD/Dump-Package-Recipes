@@ -1,0 +1,10 @@
+name=libxxf86dga
+version=1.1.6
+description=X Direct Graphics Access extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxxf86dga-1.1.6.tar.gz
+compression=gzip
+md5=9336ec1e3556717459694c39f0346ee8
+sha256=5e8caeb87fcfdf24c5b716a6e34412f079e72aec8d2cca52f05c3b7221310fd1
+deps=libxext libx11
+postinstall=
+conffiles=

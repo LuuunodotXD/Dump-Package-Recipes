@@ -1,0 +1,10 @@
+name=libxkbcommon
+version=1.7.0
+description=Keyboard handling library using XKB data
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxkbcommon-1.7.0.tar.gz
+compression=gzip
+md5=5d941bfbf56e33bd4179568f7e879128
+sha256=a9b0e604ec9e644f443ff5af71b27d000f3ae6b68e73571e78041c61ae01d219
+deps=xkeyboard-config libxcb
+postinstall=
+conffiles=

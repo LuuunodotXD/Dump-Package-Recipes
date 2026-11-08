@@ -1,0 +1,10 @@
+name=xcb-util
+version=0.4.1
+description=XCB utility library (atoms, aux helpers)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xcb-util-0.4.1.tar.gz
+compression=gzip
+md5=09c84db6a4684670070c8a4d46598cdd
+sha256=30a1e7d3cc63a9af37336dc47545204ff91c537305f171b195c807a1ca4b0c18
+deps=libxcb
+postinstall=
+conffiles=

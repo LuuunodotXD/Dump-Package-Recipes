@@ -1,0 +1,10 @@
+name=libxres
+version=1.2.2
+description=X Resource extension library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxres-1.2.2.tar.gz
+compression=gzip
+md5=ace84301ee4fd0f79231adf737e390d7
+sha256=56083d23ca99e3af60c1d69e1883eb0bac4f3c930ae9359f1050b53e6fb28f4e
+deps=libxext libx11
+postinstall=
+conffiles=

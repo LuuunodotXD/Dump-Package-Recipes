@@ -1,0 +1,10 @@
+name=libxfont
+version=1.5.4
+description=X font library (old API, version 1)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libxfont-1.5.4.tar.gz
+compression=gzip
+md5=e0074177942adb7b2347b1ab83c5c2f8
+sha256=719f791ba8b38af45cda3922c7d6865dc34c26d302c3270027794729eb71be0e
+deps=libfontenc freetype zlib
+postinstall=
+conffiles=
