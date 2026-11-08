@@ -1,0 +1,10 @@
+name=pcre2
+version=10.44
+description=Perl-compatible regular expressions (pcre2)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/pcre2-10.44.tar.gz
+compression=gzip
+md5=f3d53c5d2078ea135a7f6578aeb16096
+sha256=c86686222109ee0aa8e3b71cc3bd8143592015022a6e8d44beaee86794c1e0bf
+deps=zlib bzip2
+postinstall=
+conffiles=

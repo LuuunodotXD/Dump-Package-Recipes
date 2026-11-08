@@ -1,0 +1,10 @@
+name=libffi
+version=3.4.6
+description=Foreign function interface library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libffi-3.4.6.tar.gz
+compression=gzip
+md5=c80c3fdca2f04848431b8c2ac3f3e7c9
+sha256=f25dda42ba13b0938bdc6585536c6d558e96f0f4dbc852e0c604df1aebe80f26
+deps=
+postinstall=
+conffiles=

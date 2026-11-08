@@ -1,0 +1,10 @@
+name=imlib2
+version=1.12.3
+description=Image loading and rendering library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/imlib2-1.12.3.tar.gz
+compression=gzip
+md5=83902b588ad939d05cbf3ac5145972c8
+sha256=6ba6edf44dae2e0695aba97ea2a87cb7a260fb28b3adff0362e9a1847c49e745
+deps=zlib bzip2 freetype libx11 libxext libpng libjpeg-turbo libtiff libwebp giflib
+postinstall=
+conffiles=

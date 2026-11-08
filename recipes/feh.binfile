@@ -1,0 +1,10 @@
+name=feh
+version=3.10.3
+description=Fast and light image viewer (feh)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/feh-3.10.3.tar.gz
+compression=gzip
+md5=f322c73984bc5bc0fa5d483f0dd8e393
+sha256=d729975de741186e675745c54c384ddb813f2dda938991ba84495c5cb4c0ad61
+deps=imlib2 libx11 libpng libxinerama
+postinstall=
+conffiles=

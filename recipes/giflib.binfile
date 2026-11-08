@@ -1,0 +1,10 @@
+name=giflib
+version=5.2.2
+description=GIF image library and tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/giflib-5.2.2.tar.gz
+compression=gzip
+md5=40112bed55a2023f1b2d3efc6e95b99a
+sha256=5a704b24ebfbba58a98b8985263425c5a761ab027ea4d858e903cde495d7c860
+deps=
+postinstall=
+conffiles=
