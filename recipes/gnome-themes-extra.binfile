@@ -1,0 +1,10 @@
+name=gnome-themes-extra
+version=3.28
+description=Adwaita, Adwaita-dark and HighContrast themes for GTK2
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gnome-themes-extra-3.28.tar.gz
+compression=gzip
+md5=03f03c30fa1e03f57e26cc5f4da63156
+sha256=5b5cccd9af01b52a33962160fa5ac70b6467d65c9bb7c2be2c92f9a33fedbcb1
+deps=gtk2 cairo glib
+postinstall=
+conffiles=

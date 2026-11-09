@@ -1,0 +1,10 @@
+name=adwaita-icon-theme
+version=3.38.0
+description=Adwaita icon theme (classic colored icons) and X cursors
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/adwaita-icon-theme-3.38.0.tar.gz
+compression=gzip
+md5=304875e6af80cec0b08aff717e8e3d6f
+sha256=d8cb4aa576e77c8612364eec21d220c5af1c2d20a2eacb7d6f16e2b8c52226f3
+deps=hicolor-icon-theme
+postinstall=
+conffiles=
