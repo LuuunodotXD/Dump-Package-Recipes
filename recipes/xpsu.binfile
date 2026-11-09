@@ -1,0 +1,10 @@
+name=xpsu
+version=1.0
+description=Minimal doas-like privilege escalation (no PAM), also installed as sudo and doas
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xpsu-1.0.tar.gz
+compression=gzip
+md5=25b73238d2b3d187d757980ab398aceb
+sha256=c689989b186b52c497c639ae8f7e52a99e89cf0a8942fd501a1f9220c50bf46a
+deps=
+postinstall=chown root:root /usr/bin/xpsu /etc/xpsu.conf 2>/dev/null; chmod 4755 /usr/bin/xpsu; chmod 0640 /etc/xpsu.conf
+conffiles=/etc/xpsu.conf
