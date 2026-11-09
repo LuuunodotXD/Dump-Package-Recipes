@@ -1,0 +1,10 @@
+name=gtk-defaults
+version=1.0
+description=Default GTK2/GTK3 settings: Adwaita theme, icons, cursor and DejaVu Sans font
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/gtk-defaults-1.0.tar.gz
+compression=gzip
+md5=f3c0241880ec11371996fabd9f13fd78
+sha256=e882de609c02abae7cf955b0a6d4fe2a3bfa38ed596fd4bcf675f59482e2679f
+deps=adwaita-icon-theme gnome-themes-extra font-dejavu
+postinstall=
+conffiles=/etc/gtk-2.0/gtkrc /etc/gtk-3.0/settings.ini /usr/share/icons/default/index.theme
