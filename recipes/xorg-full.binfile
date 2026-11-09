@@ -1,10 +1,10 @@
 name=xorg-full
-version=1.0
-description=Complete X11: xorg plus every X library, GTK2, GTK3, SVG and feh
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-full-1.0.tar.gz
+version=1.1
+description=Complete X11: xorg plus every X library, GTK2, GTK3 with Adwaita theme and icons, SVG and feh
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/xorg-full-1.1.tar.gz
 compression=gzip
-md5=d1250f6074708c0d2c889d2ac4a0428e
-sha256=5c1036f542d5024456d5b0ae8229ca621dfb28cc08c2532450e91a66e2968824
-deps=xorg libxcomposite libxcursor libxdamage libxfixes libxi libxinerama libxkbcommon libxpresent libxres libxscrnsaver libxtst libxv libxvmc libxxf86dga libxxf86vm libxfont libxaw libxmu libxpm libxt libsm libice xcb-util xcb-util-cursor xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm gtk2 gtk3 librsvg glu imlib2 feh hicolor-icon-theme shared-mime-info dbus xorg-virtio-cursor
+md5=aaadd7560d3f5258d6da55e1dd487a02
+sha256=c542609b8e687d8764aa884fa2fcdb0a249a778f4b5d52ed20e6abfc3d26437e
+deps=xorg libxcomposite libxcursor libxdamage libxfixes libxi libxinerama libxkbcommon libxpresent libxres libxscrnsaver libxtst libxv libxvmc libxxf86dga libxxf86vm libxfont libxaw libxmu libxpm libxt libsm libice xcb-util xcb-util-cursor xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm gtk2 gtk3 librsvg gtk-defaults glu imlib2 feh hicolor-icon-theme shared-mime-info dbus xorg-virtio-cursor
 postinstall=echo "xorg-full is ready. For GTK3 programs start your session with: dbus-run-session -- <your window manager>."
 conffiles=
