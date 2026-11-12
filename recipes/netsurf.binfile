@@ -1,0 +1,10 @@
+name=netsurf
+version=3.11
+description=NetSurf, a small and fast web browser (GTK2)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/netsurf-3.11.tar.gz
+compression=gzip
+md5=419a27ff100816fb67d89ef1079c8ce7
+sha256=d771ef3f26fccd224f9bdcb81771375eed0acdf0556c3b4d28a1aaa2d8900f05
+deps=gtk2 expat libxml2 libpng libjpeg-turbo libwebp zlib ca-certificates shared-mime-info
+postinstall=
+conffiles=
