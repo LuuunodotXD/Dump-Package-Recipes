@@ -1,0 +1,10 @@
+name=alsa-lib
+version=1.2.14
+description=ALSA sound library (libasound) and its configuration files
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/alsa-lib-1.2.14.tar.gz
+compression=gzip
+md5=14019f9faea9bedff03e07152a7341c7
+sha256=c60421db12e13eefc3ca9829cfd7ae921a8556524f46898cc8d640055b1cd437
+deps=
+postinstall=
+conffiles=

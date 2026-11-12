@@ -1,0 +1,10 @@
+name=alsa-ucm-conf
+version=1.2.14
+description=ALSA use-case profiles for modern sound cards
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/alsa-ucm-conf-1.2.14.tar.gz
+compression=gzip
+md5=8059a01ee66d257b7563fed990fd838c
+sha256=55b2e6a221e03347274c8f0a7f2e10730b46ab2bc671eb9cbb5ea7827846584e
+deps=alsa-lib
+postinstall=
+conffiles=

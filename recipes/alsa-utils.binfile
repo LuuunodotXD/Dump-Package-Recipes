@@ -1,0 +1,10 @@
+name=alsa-utils
+version=1.2.14
+description=ALSA tools: amixer, aplay, arecord, speaker-test, alsactl
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/alsa-utils-1.2.14.tar.gz
+compression=gzip
+md5=2a76f01507aa78b549fc9bc1d370fc7d
+sha256=d8f5ba22b1db2ab926aacd24ea88521b6d6bc3e93fe7be4915b14c3c28cc1f6e
+deps=alsa-lib
+postinstall=
+conffiles=
