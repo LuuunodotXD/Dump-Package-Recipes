@@ -1,0 +1,10 @@
+name=pulseaudio
+version=17.0
+description=PulseAudio sound server (ALSA output) and tools
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/pulseaudio-17.0.tar.gz
+compression=gzip
+md5=dc5701fa6027d7342cc617a561408172
+sha256=ab0873cb9997c42ce5f41247bdc1841f5a982d05eba761425541b7b629e35503
+deps=alsa-lib libsndfile libltdl glib dbus
+postinstall=
+conffiles=/etc/pulse/default.pa /etc/pulse/system.pa /etc/pulse/daemon.conf /etc/pulse/client.conf

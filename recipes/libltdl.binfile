@@ -1,0 +1,10 @@
+name=libltdl
+version=2.5.4
+description=GNU libltdl, a library for loading modules at runtime
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libltdl-2.5.4.tar.gz
+compression=gzip
+md5=51031f6e01ebf06ed567e629a88a8c48
+sha256=d91c77f43b14989739211ca3c04d07d4182e7fa2bf6b19ab65616663dc8bee1f
+deps=
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libsndfile
+version=1.2.2
+description=Library for reading and writing audio files (WAV, AIFF, AU...)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libsndfile-1.2.2.tar.gz
+compression=gzip
+md5=84b7f1164cb1d2a32e1adaa35aa9c26c
+sha256=a217ceb4ec2f8428c7f54f918967eae4e84aeeda6c259406d966aadf19033fde
+deps=
+postinstall=
+conffiles=
