@@ -1,0 +1,10 @@
+name=opus
+version=1.5.2
+description=Opus audio codec library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/opus-1.5.2.tar.gz
+compression=gzip
+md5=3e7dcbefb7f2bf65ad65062af13a2332
+sha256=a0e2d85f993df2d05aebbcce7dbe70dc3d14a5a0ba7f67b2d4c2044891a740c8
+deps=
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=flac
+version=1.4.3
+description=FLAC lossless audio codec (library and tools)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/flac-1.4.3.tar.gz
+compression=gzip
+md5=75b4d4b8b7b850aa0b42d62002bfe6bf
+sha256=7333da83497bd11a908d09fc50d22bb92eba222a693b44f4909c95347420c484
+deps=libogg
+postinstall=
+conffiles=

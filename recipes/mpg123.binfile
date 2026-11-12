@@ -1,0 +1,10 @@
+name=mpg123
+version=1.32.10
+description=MPEG audio (MP3) decoder library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/mpg123-1.32.10.tar.gz
+compression=gzip
+md5=55586477cdb24447390a7ec985e520ae
+sha256=bfabc69cbe375d31705ef5b74191936683ff8aae5824a6be53a42be8b22017dc
+deps=
+postinstall=
+conffiles=

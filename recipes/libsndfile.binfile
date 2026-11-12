@@ -1,10 +1,10 @@
 name=libsndfile
-version=1.2.2
-description=Library for reading and writing audio files (WAV, AIFF, AU...)
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libsndfile-1.2.2.tar.gz
+version=1.2.2.1
+description=Library for reading and writing audio files (WAV, FLAC, Ogg, Opus, MP3...)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libsndfile-1.2.2.1.tar.gz
 compression=gzip
-md5=84b7f1164cb1d2a32e1adaa35aa9c26c
-sha256=a217ceb4ec2f8428c7f54f918967eae4e84aeeda6c259406d966aadf19033fde
-deps=
+md5=f5a7d92f891789fc92a183dc18d77c1e
+sha256=9be71242dc6c3cc4413a257ce30c30a05874b32cdcc2b6dae92ee13e1eaa378a
+deps=libogg libvorbis flac opus lame mpg123
 postinstall=
 conffiles=

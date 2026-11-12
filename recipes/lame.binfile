@@ -1,0 +1,10 @@
+name=lame
+version=3.100
+description=LAME MP3 encoder library
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/lame-3.100.tar.gz
+compression=gzip
+md5=3701312c5cd8151fd562e1516150ec75
+sha256=b1ce45757444326757eb9dba1b549ae4eeede053ff8e96681306d95d4cd12fb2
+deps=
+postinstall=
+conffiles=
