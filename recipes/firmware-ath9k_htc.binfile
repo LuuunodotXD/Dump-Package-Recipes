@@ -1,0 +1,10 @@
+name=firmware-ath9k_htc
+version=20261019
+description=Atheros ath9k_htc USB firmware
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-ath9k_htc-20261019.tar.bz2
+compression=bzip2
+md5=c184296f2060154555696de353fa3dd9
+sha256=070b6fb65dd0b468363d06ae64b0d30ba52ed1d5e988b20c765de4461f28a306
+deps=
+postinstall=
+conffiles=

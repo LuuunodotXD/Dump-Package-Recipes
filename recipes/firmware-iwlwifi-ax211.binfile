@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-ax211
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): ax211
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-ax211-20261019.tar.bz2
+compression=bzip2
+md5=50f4639902f0c66e6483f366348b54af
+sha256=e0a61fcf703aca32fe08430818779f7b991527e83bff0f79296ec651df2557e8
+deps=
+postinstall=
+conffiles=

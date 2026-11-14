@@ -1,0 +1,10 @@
+name=firmware-brcm
+version=20261019
+description=Broadcom/Cypress brcmfmac firmware (BCM43xx SDIO, PCIe and USB)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-brcm-20261019.tar.bz2
+compression=bzip2
+md5=cd0d3234563f61f5627517bab0add010
+sha256=e13b7f790a41fd50e2c44b6371dd4a73500862772880c00829823fc05950a7dd
+deps=
+postinstall=
+conffiles=

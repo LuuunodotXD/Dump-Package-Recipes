@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-ax200
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): ax200
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-ax200-20261019.tar.bz2
+compression=bzip2
+md5=62559f2b2703c560f7bf343d7cde3732
+sha256=74671cdc5b0ebf35122755479618a842482b4049cf515a3cac040b68d8d50f1d
+deps=
+postinstall=
+conffiles=

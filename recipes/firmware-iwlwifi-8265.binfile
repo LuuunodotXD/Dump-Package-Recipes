@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-8265
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): 8265
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-8265-20261019.tar.bz2
+compression=bzip2
+md5=733523e4df5a319fa3ea5b67e3b58e6d
+sha256=30e368effe14fce09d9a57d588cb5ce98700873e9253408eef1b87f09bfde7cf
+deps=
+postinstall=
+conffiles=

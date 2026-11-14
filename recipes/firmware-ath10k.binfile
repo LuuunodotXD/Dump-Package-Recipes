@@ -1,0 +1,10 @@
+name=firmware-ath10k
+version=20261019
+description=Qualcomm Atheros ath10k firmware
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-ath10k-20261019.tar.bz2
+compression=bzip2
+md5=77f8ed9bc9524d60a8a6cf207f71164d
+sha256=314dd6ddfc7b76933bac8513d286a9efee1a7544a65afb21639325eac69e096f
+deps=
+postinstall=
+conffiles=

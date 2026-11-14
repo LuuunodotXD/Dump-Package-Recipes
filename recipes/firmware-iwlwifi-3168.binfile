@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-3168
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): 3168
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-3168-20261019.tar.bz2
+compression=bzip2
+md5=3dc687f2688fc32bfcf240cd2a1d1dcc
+sha256=d44999a58ee2cd0ffad4cd37ac45fcb21db1ed495913100bcecab2f1aa18ece5
+deps=
+postinstall=
+conffiles=

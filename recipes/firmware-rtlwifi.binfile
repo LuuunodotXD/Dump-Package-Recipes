@@ -1,0 +1,10 @@
+name=firmware-rtlwifi
+version=20261019
+description=Realtek firmware: RTL8188EU and the rtlwifi family
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-rtlwifi-20261019.tar.bz2
+compression=bzip2
+md5=8688675cfb2535de822a105ad9d1a5ad
+sha256=2d05f97f22393c1c60a597efc9b0f2061e1dd44a739e09321fb06c17f283cc12
+deps=
+postinstall=
+conffiles=

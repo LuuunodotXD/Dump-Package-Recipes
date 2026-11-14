@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-dvm
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): dvm
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-dvm-20261019.tar.bz2
+compression=bzip2
+md5=34944ebfcae57abf87b8e4f789bbc841
+sha256=a9ba7a10621de6c7a027d8c8c005e260707f0fb9cb041b6e3b8542f69e5f6495
+deps=
+postinstall=
+conffiles=

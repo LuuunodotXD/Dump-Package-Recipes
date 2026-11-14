@@ -1,0 +1,10 @@
+name=firmware-rtw88
+version=20261019
+description=Realtek rtw88 firmware (RTL8821CE, RTL8822BE/CE, RTL8723DE)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-rtw88-20261019.tar.bz2
+compression=bzip2
+md5=2e717999b1e1f80ac854eb4581d20512
+sha256=d6d0cd4f223afbac5cd887f8b9639eaa6a04b73096aa9ab1854e41fb817ea58d
+deps=
+postinstall=
+conffiles=

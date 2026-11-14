@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-9260
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): 9260
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-9260-20261019.tar.bz2
+compression=bzip2
+md5=b0fd0425ebe8b79dbdfa6e23c3a7a012
+sha256=a38b219996861524972071bcd1da37aa22f5d6a319f37b0762b528717cc03627
+deps=
+postinstall=
+conffiles=

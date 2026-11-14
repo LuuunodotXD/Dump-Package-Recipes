@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-7260
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): 7260
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-7260-20261019.tar.bz2
+compression=bzip2
+md5=8c082b4a11c4000fde383c7ca4bcd83d
+sha256=8b32aa1711acf3e6a3a1301f452cc9fc3be5f97fcb3c1ed1dde586b32d531119
+deps=
+postinstall=
+conffiles=

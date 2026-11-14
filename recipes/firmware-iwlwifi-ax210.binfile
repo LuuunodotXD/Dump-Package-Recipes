@@ -1,0 +1,10 @@
+name=firmware-iwlwifi-ax210
+version=20261019
+description=Intel Wi-Fi firmware (iwlwifi): ax210
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-iwlwifi-ax210-20261019.tar.bz2
+compression=bzip2
+md5=3d9c928acd9100d0a76db0ead623d6d9
+sha256=9f77e77671f1bcbb81fcca187442ab03672ff11f054b240cc25ab1e1936901de
+deps=
+postinstall=
+conffiles=

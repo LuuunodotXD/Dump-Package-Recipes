@@ -1,0 +1,10 @@
+name=firmware-ralink
+version=20261019
+description=Ralink rt2x00 firmware (RT2870/RT3070/RT5370 and similar)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-ralink-20261019.tar.bz2
+compression=bzip2
+md5=cd365115689c11c9102a08677e17e821
+sha256=9f75b40302ef1abbb87508b594e27c3e59ec9e3d456e7d1c722dd61dfd448e33
+deps=
+postinstall=
+conffiles=

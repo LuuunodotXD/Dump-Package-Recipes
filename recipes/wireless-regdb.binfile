@@ -1,0 +1,10 @@
+name=wireless-regdb
+version=2026.09.03
+description=Wireless regulatory database (signed), needed by cfg80211
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/wireless-regdb-2026.09.03.tar.bz2
+compression=bzip2
+md5=5421d18496d88c662220d30f91442001
+sha256=c2d2f6fd4fe22ade14d4a03dd79a4be7daa5d9416e1f37e052b0f42e8980e38f
+deps=
+postinstall=
+conffiles=

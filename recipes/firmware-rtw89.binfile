@@ -1,0 +1,10 @@
+name=firmware-rtw89
+version=20261019
+description=Realtek rtw89 firmware (RTL8852AE/BE/CE)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-rtw89-20261019.tar.bz2
+compression=bzip2
+md5=ba2bec5beb726e952b6ca101996a107c
+sha256=65ff56a69c1fad2ba7bba307efbb0aa92f081e2b1a27a07df002631dc5217704
+deps=
+postinstall=
+conffiles=
