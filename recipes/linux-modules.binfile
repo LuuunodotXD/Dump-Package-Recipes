@@ -1,0 +1,10 @@
+name=linux-modules
+version=6.1.187-baseroot
+description=Kernel modules for Linux 6.1.187-baseroot (Wi-Fi drivers and more)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/linux-modules-6.1.187-baseroot.tar.bz2
+compression=bzip2
+md5=127069cdb606da7921a3804a99617a8b
+sha256=b66a4c390c73301bd3cc97ab1afddc2a76f02198886277415a7cc43ffd4e6aea
+deps=
+postinstall=
+conffiles=
