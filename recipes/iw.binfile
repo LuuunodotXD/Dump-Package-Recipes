@@ -1,0 +1,10 @@
+name=iw
+version=6.9
+description=Tool to see and configure Wi-Fi (nl80211): scan, link, regdomain
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/iw-6.9.tar.gz
+compression=gzip
+md5=c2a350e3169eb0accc3f732fc9d712a7
+sha256=9aaf6029f02fbde2bfef34f9348520a713634635a5fc8950f5cd44ee89e2af41
+deps=libnl
+postinstall=
+conffiles=

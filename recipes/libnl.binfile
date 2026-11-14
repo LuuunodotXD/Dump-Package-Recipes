@@ -1,0 +1,10 @@
+name=libnl
+version=3.11.0
+description=Netlink protocol library (used by iw and wpa_supplicant for nl80211)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libnl-3.11.0.tar.gz
+compression=gzip
+md5=6f853df324ed92799207559077b8939f
+sha256=db6b40ef671cf65eaaee5d64e994799e397c3234b4e1ae560392b81f26180873
+deps=
+postinstall=
+conffiles=

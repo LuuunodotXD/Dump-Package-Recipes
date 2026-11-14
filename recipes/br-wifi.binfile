@@ -1,0 +1,10 @@
+name=br-wifi
+version=1.0
+description=Text-mode Wi-Fi connection helper for BaseRoot (scan, connect, DHCP)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/br-wifi-1.0.tar.gz
+compression=gzip
+md5=df8396215c930c928ef84dd5850b831a
+sha256=332704beeeeb55614c9a3a0a395db6fd97e31a48864ebcb93c596caa4f29cd0b
+deps=iw wpa_supplicant libnl
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=wpa_supplicant
+version=2.11
+description=WPA/WPA2 supplicant (nl80211) with wpa_cli and wpa_passphrase
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/wpa_supplicant-2.11.tar.gz
+compression=gzip
+md5=5b1fcf11300eee7d995c733717c470de
+sha256=0556137da7152692374726b70f252459c8f1e29d96157366015d3471fa0e9f9f
+deps=libnl
+postinstall=
+conffiles=
