@@ -1,10 +1,10 @@
 name=br-wifi
-version=3.1
+version=3.2
 description=Wi-Fi manager for BaseRoot with a text front-end and a full-screen one (saved networks, priorities, MAC address, background service)
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/br-wifi-3.1.tar.gz
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/br-wifi-3.2.tar.gz
 compression=gzip
-md5=1300933cd081d8203d46e80c4e659f57
-sha256=4d7690c6110f746b9bd23a9d141fc1be6b2771abbd1e75074167e5da017c2dc9
+md5=290bd8f5d6c8dd8c93216ac16f154a1e
+sha256=15f2dcd11ca58e53a6983dc96c931b2897b7bcd8801013af55ea181f5c0ee19b
 deps=iw wpa_supplicant libnl
 postinstall=echo "br-wifi is installed. Run br-wifi-tui for the full-screen version, or br-wifi for the plain-text one. The Wi-Fi service is OFF at boot and you have to turn it on by hand: run br-wifi boot on (it runs from /etc/init.d/S32-wifi, or you can edit ENABLE in /etc/br-wifi.conf). To start it right now: br-wifi start"
 conffiles=/etc/br-wifi.conf
