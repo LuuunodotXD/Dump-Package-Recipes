@@ -1,10 +1,10 @@
 name=br-wifi
-version=1.7
+version=1.8
 description=Text-mode Wi-Fi manager for BaseRoot (several saved networks, priorities, background service)
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/br-wifi-1.7.tar.gz
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/br-wifi-1.8.tar.gz
 compression=gzip
-md5=1139dd8c166bbd15efa5a4292f2a1c49
-sha256=23d31512bfe8345e8264f3114b9d1933812a6cc8bc73dacfc2a01272ba30aa81
+md5=969cabd50547fab592844bede17b9719
+sha256=d79a2a55be39b27a6109f20645c894989c2a6fa4a70ea4ddc97d810c5cc64db6
 deps=iw wpa_supplicant libnl
-postinstall=echo "br-wifi is installed, but the Wi-Fi service is OFF at boot and you have to turn it on by hand. Edit /etc/br-wifi.conf and change ENABLE from no to yes (it runs from /etc/init.d/S38-wifi). To start it right now: br-wifi start. To just pick a network without the service: br-wifi"
+postinstall=echo "br-wifi is installed, but the Wi-Fi service is OFF at boot and you have to turn it on by hand. Edit /etc/br-wifi.conf and change ENABLE from no to yes (it runs from /etc/init.d/S32-wifi). To start it right now: br-wifi start. To just pick a network without the service: br-wifi"
 conffiles=/etc/br-wifi.conf
