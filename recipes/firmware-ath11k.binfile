@@ -1,0 +1,10 @@
+name=firmware-ath11k
+version=20261019
+description=Qualcomm Atheros ath11k (Wi-Fi 6) firmware
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-ath11k-20261019.tar.bz2
+compression=bzip2
+md5=0b1e2685e6e3d0241fa4372fe13760b8
+sha256=3a61d59c397ab94744ff3dd056388fee1734fd541d892212c55650a9b125e587
+deps=
+postinstall=
+conffiles=

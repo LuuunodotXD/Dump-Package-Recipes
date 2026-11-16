@@ -1,0 +1,10 @@
+name=firmware-bluetooth
+version=20261019
+description=Bluetooth firmware: Intel, Realtek, Qualcomm/Atheros, Broadcom and MediaTek
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-bluetooth-20261019.tar.bz2
+compression=bzip2
+md5=828efca877d0db0027ca983bb087201e
+sha256=d7541f621e10dba9370cf942321deaca88826a4236d862efce2fb54684d07e5d
+deps=
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=firmware-audio
+version=20261019
+description=Audio DSP firmware: Intel catpt/SST/AVS/SOF and Cirrus/TI amplifiers
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-audio-20261019.tar.bz2
+compression=bzip2
+md5=df63256c92b0ca6ac9ea74e32af72cda
+sha256=8352fff6933891ff5530fad06c330e2ec6e32ce45ae659e33c4ff67ee1249093
+deps=
+postinstall=
+conffiles=

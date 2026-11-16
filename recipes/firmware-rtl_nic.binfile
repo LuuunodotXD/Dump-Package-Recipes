@@ -1,0 +1,10 @@
+name=firmware-rtl_nic
+version=20261019
+description=Realtek Ethernet firmware (r8169: RTL8168, RTL8125, RTL8153)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-rtl_nic-20261019.tar.bz2
+compression=bzip2
+md5=215d9f7b80ff65601886ee44519fd6ef
+sha256=a8580b1659182dd9ab99a4683fc6a0dce7a0d009a72075b227ed2e3df719148c
+deps=
+postinstall=
+conffiles=

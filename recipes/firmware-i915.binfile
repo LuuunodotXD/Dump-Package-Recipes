@@ -1,0 +1,10 @@
+name=firmware-i915
+version=20261019
+description=Intel i915 firmware (DMC, GuC, HuC) for Skylake and newer
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firmware-i915-20261019.tar.bz2
+compression=bzip2
+md5=aa90a0fed13efe949f582862b4d06fec
+sha256=6095a9ecf6a217c305c64a806172342a8f34000839c35324301faeadf3c0a2e0
+deps=
+postinstall=
+conffiles=
