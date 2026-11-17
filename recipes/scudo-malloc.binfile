@@ -1,0 +1,10 @@
+name=scudo-malloc
+version=22.1.3
+description=scudo-malloc from Alpine, needed by Firefox
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/scudo-malloc-22.1.3.tar.gz
+compression=gzip
+md5=e042b6ba2c46453e92086b6830cff939
+sha256=61f44830ad6ebf84a87cbd1ce8c384587e5f7bee8c2a035e1c6ab89bbeeb868a
+deps=
+postinstall=
+conffiles=

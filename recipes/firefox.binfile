@@ -5,6 +5,6 @@ url=https://github.com/LuuunodotXD/Dump-Package-Recipes/releases/download/2026-1
 compression=bzip2
 md5=9a114995f15186933e91b828b824e35e
 sha256=ebd732ce0373e39c1744310fbfe6b473df9faf1547b4f2fc986db39a38b1c924
-deps=alsa-lib atk cairo dbus fontconfig freetype gdk-pixbuf glib gtk3 libdrm libffi libpng libwebp libx11 libxcb libxcomposite libxdamage libxext libxfixes libxrandr pango pixman zlib mesa font-dejavu shared-mime-info hicolor-icon-theme adwaita-icon-theme nspr nss sqlite-libs icu-libs libevent libvpx libjpeg-firefox libstdc++ libgcc libgomp numactl ffmpeg7-libavutil ffmpeg7-libswresample ffmpeg7-libavcodec aom-libs libdav1d x264-libs x265-libs rav1e-libs libSvtAv1Enc libjxl libhwy brotli-libs lcms2 libtheora libva libvdpau libvpl soxr xvidcore
+deps=alsa-lib atk cairo dbus fontconfig freetype gdk-pixbuf glib gtk3 libdrm libffi libpng libwebp libx11 libxcb libxcomposite libxdamage libxext libxfixes libxrandr pango pixman zlib mesa font-dejavu shared-mime-info hicolor-icon-theme adwaita-icon-theme nspr nss sqlite-libs icu-libs libevent libvpx libjpeg-firefox libstdc++ libgcc libgomp numactl ffmpeg7-libavutil ffmpeg7-libswresample ffmpeg7-libavcodec aom-libs libdav1d x264-libs x265-libs rav1e-libs libSvtAv1Enc libjxl libhwy brotli-libs lcms2 libtheora libva libvdpau libvpl scudo-malloc soxr xvidcore
 postinstall=
 conffiles=
