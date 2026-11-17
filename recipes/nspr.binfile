@@ -1,0 +1,10 @@
+name=nspr
+version=4.38.2
+description=Netscape Portable Runtime (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/nspr-4.38.2.tar.gz
+compression=gzip
+md5=3c87740e85103ed319821554da1a3dd8
+sha256=c0a4382489ff2c8bcd16a6dae6be5665dbf20220d6c4cf555e65c00c0852b0d1
+deps=
+postinstall=
+conffiles=

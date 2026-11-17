@@ -1,0 +1,10 @@
+name=libtheora
+version=1.2.0
+description=Theora video codec library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libtheora-1.2.0.tar.gz
+compression=gzip
+md5=2ddc69ac9a7751c259810c9ba96abe49
+sha256=7150f8fb805c79a63594fe4925aa5454eff0497274eaab002b51dc5e7bdab14b
+deps=libogg
+postinstall=
+conffiles=

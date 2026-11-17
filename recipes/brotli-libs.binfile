@@ -1,0 +1,10 @@
+name=brotli-libs
+version=1.2.1
+description=Brotli compression library (from Alpine, for libjxl)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/brotli-libs-1.2.1.tar.gz
+compression=gzip
+md5=f8109ac0045d34bb61ef330575052405
+sha256=988ca59817961090470246fff4d5cfcefbf098ba77e3b2891d3b3e108340e474
+deps=
+postinstall=
+conffiles=

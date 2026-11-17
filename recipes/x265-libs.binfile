@@ -1,0 +1,10 @@
+name=x265-libs
+version=4.1
+description=H.265 encoder library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/x265-libs-4.1.tar.gz
+compression=gzip
+md5=3a84825f8d0ec97d8c1de9203141f636
+sha256=942090c0cc94e54bace30cdfa9857616c7e2b106d95f0f29cd08435541af5aaf
+deps=numactl libgomp libstdc++ libgcc
+postinstall=
+conffiles=

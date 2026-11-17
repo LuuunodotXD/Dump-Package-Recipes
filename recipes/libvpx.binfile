@@ -1,0 +1,10 @@
+name=libvpx
+version=1.15.2
+description=VP8/VP9 video codec library (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libvpx-1.15.2.tar.gz
+compression=gzip
+md5=869ef042274e5cee006310c359f7f257
+sha256=1aae04319cf272e6cbb479b96c74258a4735c058a334987df08e5dd21cb141a4
+deps=
+postinstall=
+conffiles=

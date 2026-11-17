@@ -1,0 +1,10 @@
+name=nss
+version=3.133
+description=Network Security Services: TLS and certificates (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/nss-3.133.tar.gz
+compression=gzip
+md5=c15f0a43e54ef86f773e18de12b889e3
+sha256=6c9772dfd40c303574f36c1740211e8436c10906ce645c0e999c0a4b765f50f6
+deps=nspr sqlite-libs zlib
+postinstall=
+conffiles=

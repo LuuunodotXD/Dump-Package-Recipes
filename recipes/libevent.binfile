@@ -1,0 +1,10 @@
+name=libevent
+version=2.1.13
+description=Event notification library (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libevent-2.1.13.tar.gz
+compression=gzip
+md5=7a769640636423e5cf2fc9ffefc02150
+sha256=9a61ee38c7ff4f5c39572623cfd0c27711dcae7089e047debba74ca667703876
+deps=
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libstdc++
+version=15.2.0
+description=GNU C++ runtime library (from Alpine)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libstdc++-15.2.0.tar.gz
+compression=gzip
+md5=8c6de21b777cd5489174f8412621b9b6
+sha256=9b1e2ad1506671c60f22cdcafff7b6284314f0e3fc8b68f11cd8256f019dc909
+deps=libgcc
+postinstall=
+conffiles=

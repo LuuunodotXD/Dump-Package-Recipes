@@ -1,0 +1,10 @@
+name=ffmpeg7-libswresample
+version=7.1.5
+description=FFmpeg 7 libswresample (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/ffmpeg7-libswresample-7.1.5.tar.gz
+compression=gzip
+md5=10056feb34163223c6dab6febe11f5b2
+sha256=d2775674b3768883e810e401c36d36131dd85deeabacd35c0f435f8799d4f417
+deps=ffmpeg7-libavutil soxr
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=libdav1d
+version=1.5.3
+description=dav1d AV1 decoder (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libdav1d-1.5.3.tar.gz
+compression=gzip
+md5=060ab3ca369ed51bcc8f975cdbf3ffc5
+sha256=538096c7fdf7e79da8bde81236c003e8386059fcc80bfa5c57fbc1818e54bbea
+deps=
+postinstall=
+conffiles=

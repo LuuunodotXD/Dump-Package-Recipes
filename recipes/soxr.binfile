@@ -1,0 +1,10 @@
+name=soxr
+version=0.1.3
+description=SoX resampler library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/soxr-0.1.3.tar.gz
+compression=gzip
+md5=b5105063928ed67eef8ee691b2bfba3c
+sha256=8cb2b6c717376a1271353b3fc73b4d9fbbee26f09be08cdc8795ca9b854952b0
+deps=
+postinstall=
+conffiles=

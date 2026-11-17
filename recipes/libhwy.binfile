@@ -1,0 +1,10 @@
+name=libhwy
+version=1.3.0
+description=Highway SIMD library (from Alpine, for libjxl)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libhwy-1.3.0.tar.gz
+compression=gzip
+md5=061fba2d6ac578ed0b5b8985247fe7b7
+sha256=e2137a8f7df05ed3762cc93c621149d3adcdce87a72ac39af8d358d105ca28cd
+deps=libstdc++ libgcc
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=ffmpeg7-libavcodec
+version=7.1.5
+description=FFmpeg 7 libavcodec: H.264, AAC and friends (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/ffmpeg7-libavcodec-7.1.5.tar.gz
+compression=gzip
+md5=fbadc5ad145d950fefe4189e18472382
+sha256=218ed36f0f50cc5cbf592899e0232509029e55130b91400a04c905e772cefb79
+deps=ffmpeg7-libavutil ffmpeg7-libswresample aom-libs libdav1d x264-libs x265-libs rav1e-libs libSvtAv1Enc libjxl libtheora libvpx libvpl xvidcore libva libvdpau opus libvorbis lame libwebp zlib
+postinstall=
+conffiles=

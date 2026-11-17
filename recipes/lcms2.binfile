@@ -1,0 +1,10 @@
+name=lcms2
+version=2.19
+description=Little CMS color management (from Alpine, for libjxl)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/lcms2-2.19.tar.gz
+compression=gzip
+md5=6885531463b4cc977c394f1ab2a84ad5
+sha256=20c5164babb49a3abe2880bb4b587db270b03495b794f4428404350b44ae5e80
+deps=
+postinstall=
+conffiles=

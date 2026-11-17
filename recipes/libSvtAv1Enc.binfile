@@ -1,0 +1,10 @@
+name=libSvtAv1Enc
+version=4.1.0
+description=SVT-AV1 encoder library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libSvtAv1Enc-4.1.0.tar.gz
+compression=gzip
+md5=d154b8c04426fe910ceb47103f4b6d69
+sha256=32333ac87c0eb4227b197c00d203dd0fd1a072e503882be485bd6171332c4fd6
+deps=
+postinstall=
+conffiles=

@@ -1,0 +1,10 @@
+name=sqlite-libs
+version=3.53.4
+description=SQLite shared library (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/sqlite-libs-3.53.4.tar.gz
+compression=gzip
+md5=722529a4215df38c44b79eb100975fc3
+sha256=226e7dea4aa9987ad4d107ab6709e2748fe5bfa6db51280a9f9e92324aab2ee3
+deps=zlib
+postinstall=
+conffiles=

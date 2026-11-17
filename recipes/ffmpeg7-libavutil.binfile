@@ -1,0 +1,10 @@
+name=ffmpeg7-libavutil
+version=7.1.5
+description=FFmpeg 7 libavutil (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/ffmpeg7-libavutil-7.1.5.tar.gz
+compression=gzip
+md5=d2ba9038b83d590b4ff0b87b2c8197cd
+sha256=73aaf579945ff284ffdf04adfa86ef700100728f715fcf6018d6ce95eab40d59
+deps=libdrm libx11 libva libvdpau
+postinstall=
+conffiles=

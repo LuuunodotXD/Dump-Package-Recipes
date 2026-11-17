@@ -1,0 +1,10 @@
+name=libgcc
+version=15.2.0
+description=GCC runtime library libgcc_s (from Alpine)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libgcc-15.2.0.tar.gz
+compression=gzip
+md5=07c6a9a9ce2f611fc97e717c585c2a30
+sha256=8b1da26c0fb956f7db9cc2ae6e655d6bc2fe2c5dee76c6520fcb21cdc7934ce3
+deps=
+postinstall=
+conffiles=

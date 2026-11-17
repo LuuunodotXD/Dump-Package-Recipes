@@ -1,0 +1,10 @@
+name=libjpeg-turbo-alpine
+version=3.1.3
+description=libjpeg.so.8 build of libjpeg-turbo (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libjpeg-turbo-alpine-3.1.3.tar.gz
+compression=gzip
+md5=41216a7835e9d23eda26ddcb53162b58
+sha256=87f20c3a59237e2b5719931de61e5d104ac4e37932e4c9fda4a6fbfae3d9e76e
+deps=
+postinstall=
+conffiles=

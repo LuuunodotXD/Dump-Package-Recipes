@@ -1,0 +1,10 @@
+name=x264-libs
+version=0.164.3108
+description=H.264 encoder library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/x264-libs-0.164.3108.tar.gz
+compression=gzip
+md5=89e2d92d60a42e6cc86eaab14d5eb5be
+sha256=0558653d81040a3d5052d732f0970f1d000094f2871b2396e58eff18eba95c3d
+deps=
+postinstall=
+conffiles=

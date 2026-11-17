@@ -1,0 +1,10 @@
+name=numactl
+version=2.0.19
+description=NUMA policy library (from Alpine, for x265)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/numactl-2.0.19.tar.gz
+compression=gzip
+md5=4ccd11b4852b28a08d0bcf99ece458fa
+sha256=0a4c8c14b4e3cdda6ce9658f1ac75ebe4cf5d5935a2a0a590c67b7fd7daeea1f
+deps=
+postinstall=
+conffiles=

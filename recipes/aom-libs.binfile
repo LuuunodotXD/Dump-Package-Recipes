@@ -1,0 +1,10 @@
+name=aom-libs
+version=3.14.1
+description=AV1 codec library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/aom-libs-3.14.1.tar.gz
+compression=gzip
+md5=535fa6a160c2b7436908c340212b2a10
+sha256=2e8737030e4e6625174946ff55220a183116bcc06386a7c0521ae2d4722f3b9e
+deps=
+postinstall=
+conffiles=

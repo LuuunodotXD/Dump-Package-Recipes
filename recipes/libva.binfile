@@ -1,0 +1,10 @@
+name=libva
+version=2.23.0
+description=Video Acceleration API library (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libva-2.23.0.tar.gz
+compression=gzip
+md5=b867221adc62ac1a2b5db1794694b2a8
+sha256=dd4648024eda7a563cee53492820ee3f4d82b1f4137d21d1189de678a9ca2987
+deps=libdrm libx11 libxext libxfixes
+postinstall=
+conffiles=

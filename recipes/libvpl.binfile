@@ -1,0 +1,10 @@
+name=libvpl
+version=2.15.0
+description=oneVPL video processing dispatcher (from Alpine, for ffmpeg)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/libvpl-2.15.0.tar.gz
+compression=gzip
+md5=4886aa3511917ea644d7dbda01bc8dbd
+sha256=ee7b88d5ebb90799da3d13fa3e2c07c5c359f0d6aa3e3171e3ba50a2855c783d
+deps=libva libdrm libstdc++ libgcc
+postinstall=
+conffiles=
