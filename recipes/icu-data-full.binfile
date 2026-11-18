@@ -1,0 +1,10 @@
+name=icu-data-full
+version=78.1
+description=ICU Unicode and localization data (from Alpine, for Firefox)
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/icu-libs-78.1.tar.gz
+compression=gzip
+md5=518408102c125c1a8357da1e0fe14e2a
+sha256=7291350fb381ee1b43a14c03e4e2f2575971685db5a109fe859c5fce7a895092
+deps=
+postinstall=
+conffiles=

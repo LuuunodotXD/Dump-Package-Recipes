@@ -5,6 +5,6 @@ url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/icu-li
 compression=gzip
 md5=b4bf0a6865005cce83b03283c68ed2b4
 sha256=5939af9415705a19928851a9f6b4c77fd35be99f7681e500a69613029d4aea36
-deps=libstdc++ libgcc
+deps=libstdc++ libgcc icu-data-full
 postinstall=
 conffiles=
