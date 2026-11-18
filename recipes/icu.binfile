@@ -1,7 +1,7 @@
 name=icu
 version=78.1
 description=ICU Unicode and localization packages (from Alpine, for Firefox)
-url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/icu-libs-78.1.tar.gz
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/icu-78.1.tar.gz
 compression=gzip
 md5=fd373d17e8adb069c900a6badd83dd60
 sha256=5c41f9f3352a0c107e7b4a7a9de5ea554aac075cca52033be9024c8fbf971a3a
