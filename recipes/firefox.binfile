@@ -1,10 +1,10 @@
 name=firefox
 version=153.7.0-esr
-description=Firefox ESR web browser (Alpine build for musl)
+description=Firefox ESR web browser installer (Alpine build for musl)
 url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/firefox-153.7.0-esr.tar.bz2
 compression=bzip2
-md5=6e192f68e562b96b8f48da525aaeab69
-sha256=727826f7c09764b894dffb7a5593d2aad18f19897981043d6f2294773cca7315
+md5=ee777a4c2bb1c5b1b99717719791f70c
+sha256=0066070ac1567977c780780a2454bb4873519eea11e252d1a00954f35500ae65
 deps=alsa-lib atk cairo curl dbus fontconfig freetype gdk-pixbuf glib gtk3 libdrm libffi libpng libwebp libx11 libxcb libxcomposite libxdamage libxext libxfixes libxrandr pango pixman zlib mesa font-dejavu shared-mime-info hicolor-icon-theme adwaita-icon-theme nspr nss sqlite-libs icu libevent libvpx libjpeg-firefox libstdc++ libgcc libgomp numactl ffmpeg7-libavutil ffmpeg7-libswresample ffmpeg7-libavcodec aom-libs libdav1d x264-libs x265-libs rav1e-libs libSvtAv1Enc libjxl libhwy brotli-libs lcms2 libtheora libva libvdpau libvpl scudo-malloc soxr xvidcore
 postinstall=/usr/bin/install-firefox
 conffiles=
