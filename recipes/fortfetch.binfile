@@ -1,0 +1,10 @@
+name=fortfetch
+version=0.9.0
+description=A complete system information tool written in Fortran
+url=https://raw.githubusercontent.com/LuuunodotXD/Dump-Packages/main/main/fortfetch-0.9.0.tar.gz
+compression=gzip
+md5=02d2059df8fabd679edfc75648148bbb
+sha256=e6dbeedfd9b4f55fb6b712bebc9b26b85f4cc0b93ac2601994875aca99dd0355
+deps=
+postinstall=
+conffiles=
